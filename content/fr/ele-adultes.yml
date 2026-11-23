@@ -12,7 +12,7 @@ sections:
       - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-etrangere/cours-regulier/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Les cours d’espagnol langue étrangère pour adultes offerts par Legados proposent une expérience d’apprentissage complète, efficace et rapide, alignée sur le [Cadre européen commun de référence pour les langues (CECR)](https://www.coe.int/fr/web/common-european-framework-reference-languages), un système de niveaux de cours reconnu mondialement.

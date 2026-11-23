@@ -11,7 +11,7 @@ sections:
       - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/4-5ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Ce cours d’espagnol langue maternelle s’adresse aux enfants issus de familles hispanophones.

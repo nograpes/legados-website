@@ -32,7 +32,7 @@ sections:
       Chez Legados, apprendre une langue, c’est aussi entrer en relation avec un monde vivant.
 
   - type: cards
-    color: pink
+    color: orange
     cards:
       - title: Le mois de l’héritage latino-américain
         text: Venez célébrer la culture des communautés latino-américaines.

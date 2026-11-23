@@ -11,7 +11,7 @@ sections:
       - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/6-11-ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Le programme Bicyclette est divisé en 3 niveaux : débutant, intermédiaire, avancé. Tout le programme s’appuie sur la littérature latino-américaine, qui constitue le fil conducteur de l’apprentissage de la langue.

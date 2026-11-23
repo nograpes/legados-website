@@ -8,7 +8,7 @@ sections:
     align: center
 
   - type: text
-    color: blue
+    color: red
     image: /images/2025/12/legados-une-histoire-d-immigration.jpg
     image_side: right
     body: |
@@ -44,7 +44,7 @@ sections:
       La tradition orale, les récits familiaux et les histoires du quotidien nourrissent également cette approche, faisant de la lecture un acte vivant et partagé.
 
   - type: text
-    color: pink
+    color: orange
     image: /images/2025/12/filosofia-teatro-web.jpg
     image_side: right
     heading: Les arts comme langage
@@ -67,7 +67,7 @@ sections:
           Legados repose sur une conviction simple et forte : les langues sont des espaces de vie, de mémoire et de création. Les faire vivre, les transmettre et les partager est un geste essentiel.
 
   - type: text
-    color: blue
+    color: red
     align: center
     body: |
       ### Choisir Legados, c’est rejoindre un lieu où l’espagnol est vivant, habité et en constante évolution — un lieu pour apprendre, créer et faire dialoguer les héritages.

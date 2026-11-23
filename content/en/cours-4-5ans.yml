@@ -11,7 +11,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/4-5ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       This heritage-language Spanish class is for children from Spanish-speaking families.

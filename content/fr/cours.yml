@@ -7,7 +7,7 @@ sections:
     title: Les cours d’espagnol à Montréal de Legados
 
   - type: text
-    color: blue
+    color: red
     box: orange
     body: |
       Legados propose 2 programmes de cours d’espagnol :

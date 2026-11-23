@@ -11,7 +11,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-etrangere/ele-enfants/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       The ideal class to introduce young people to Spanish as a foreign language in a playful, creative and immersive setting designed for their age.

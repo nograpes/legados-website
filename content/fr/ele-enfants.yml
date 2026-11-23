@@ -11,7 +11,7 @@ sections:
       - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-etrangere/ele-enfants/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Cours idéal pour initier les jeunes à l’espagnol comme langue étrangère dans un cadre ludique, créatif et immersif, spécialement adapté à leur âge.

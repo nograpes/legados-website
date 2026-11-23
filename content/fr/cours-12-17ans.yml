@@ -11,7 +11,7 @@ sections:
       - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/12-17-ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Passage est un cours en personne, en groupe, pensé pour les jeunes de 12 à 17 ans ayant déjà un niveau intermédiaire en espagnol. C’est un espace où l’on renforce ses compétences linguistiques, bien sûr — mais surtout, où l’on grandit avec la langue.

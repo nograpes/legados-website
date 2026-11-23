@@ -10,7 +10,7 @@ sections:
     align: center
 
   - type: text
-    color: blue
+    color: red
     align: center
     body: |
       Un camp d’immersion en espagnol avec une approche culturelle, communicative, originale et amusante.

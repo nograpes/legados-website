@@ -11,7 +11,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/8mois-2ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       This class is for babies from Spanish-speaking families, together with a parent.

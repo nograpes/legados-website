@@ -11,7 +11,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/12-17-ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Passage is an in-person group class for teens aged 12 to 17 who already have an intermediate level of Spanish. It is a space to strengthen language skills, of course — but above all, to grow with the language.

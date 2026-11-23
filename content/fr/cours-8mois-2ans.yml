@@ -11,7 +11,7 @@ sections:
       - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/8mois-2ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Ce cours s’adresse aux bébés de familles hispanophones, accompagnés d’un parent.

@@ -12,7 +12,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-etrangere/cours-regulier/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       Legados’s Spanish classes for adults offer a complete, effective and fast learning experience, aligned with the [Common European Framework of Reference for Languages (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages), a level system recognized worldwide.

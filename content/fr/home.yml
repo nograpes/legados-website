@@ -20,13 +20,6 @@ sections:
   - label: Espagnol langue étrangère
     url: page:cours#ele
     style: outline
-- type: banner
-  color: orange
-  image: /images/2026/10/MLHA_banniere_2026-1024x231.jpg
-  alt: Mois de l’héritage latino-américain, octobre 2026
-  buttons:
-  - label: Découvrir la programmation de 2026
-    url: https://legados.ca/mois-de-l-heritage-latino-americain/mlha2026/
 - type: video
   youtube: KaklklojCu4
   title: Présentation de Legados
@@ -37,7 +30,7 @@ sections:
     Cours, ateliers et activités culturelles créent un espace de rencontre où enfants, jeunes et adultes apprennent la langue tout en approfondissant une culture et en découvrant une communauté.'
   color: white
 - type: cards
-  color: blue
+  color: red
   heading: Découvrez nos cours de langue
   cards:
   - title: Espagnol langue maternelle
@@ -53,7 +46,7 @@ sections:
       label: Voir les cours
       url: page:cours#ele
 - type: gallery
-  color: pink
+  color: orange
   align: tall
   images:
   - src: /images/2026/04/atelier-poesie.webp
@@ -84,7 +77,7 @@ sections:
   author: Mariana Marín
   role: Fondatrice de Legados
 - type: band
-  color: blue
+  color: red
   image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
   heading: ¡ Bienvenidos !
   body: 5804, boulevard Saint-Laurent (coin Bernard), dans le Mile-End.

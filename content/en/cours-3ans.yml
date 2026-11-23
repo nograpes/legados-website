@@ -11,7 +11,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/3ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       This heritage-language Spanish class is for 3-year-olds from Spanish-speaking families.

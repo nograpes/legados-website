@@ -11,7 +11,7 @@ sections:
       - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/6-11-ans/" }
 
   - type: text
-    color: blue
+    color: red
     columns: 2
     body: |
       The Bicycle program has 3 levels: beginner, intermediate and advanced. The whole program is built on Latin American literature, the common thread of language learning.

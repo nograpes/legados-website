@@ -46,13 +46,15 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
   written from scratch, never copy code/layouts from the old theme (Astra/Spectra).
   Reused only Legados's own assets: logo, the armadillo mascot (Quirquincho), photos,
   text, Multiblocs.svg, brand colours.
-- Look: white base, deep indigo text and pill buttons (#1d2340), section backgrounds are
-  light tints of the brand colours (the `color` names in content map to tints: yellow →
-  #fff6c4, blue → #e2f3fc, pink → #fde6f0, orange → #ffe9d1, grey → #f2f3f7). The one bold
-  element is a **multicolour stripe** (red/orange/yellow/green/blue/pink) at the top of
-  the header, top of the indigo footer, and as a short bar under page titles.
+- Look (Aman, 2026-11-23: "primary colours, more orange, yellow and red", no rainbow
+  stripes): white base, deep indigo text and pill buttons (#1d2340); sections use the
+  **full brand colours** — `yellow` #efdd17, `orange` #f6931e, `red` #ec1c24 (white text,
+  white buttons), `grey` #f2f3f7 for calm sections. `blue`/`green` exist in CSS but the
+  content uses red/orange/yellow (pink was remapped to orange). No multicolour stripes;
+  page titles get a short orange bar. Quote = red panel; footer = indigo.
 - Home hero: big headline left, photo right with the mascot as a round "sticker".
-  Quote = indigo panel with round photo; "¡Bienvenidos!" = photo band, text bottom-left.
+  The Latin American Heritage Month banner was removed from the home page (Aman,
+  2026-11-23). Quote = red panel with round photo; "¡Bienvenidos!" = photo band, text bottom-left.
 - Fonts self-hosted (no Google Fonts): Bricolage Grotesque (headings) and Figtree (text),
   both OFL, from @fontsource; licence files in static/fonts.
 - Brand colours: red #ec1c24, orange #f6931e, yellow #efdd17, green #00aa4e,

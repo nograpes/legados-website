@@ -7,7 +7,7 @@ sections:
     title: Legados Spanish classes in Montreal
 
   - type: text
-    color: blue
+    color: red
     box: orange
     body: |
       Legados offers 2 Spanish programs:

@@ -20,13 +20,6 @@ sections:
   - label: Spanish as a foreign language
     url: page:cours#ele
     style: outline
-- type: banner
-  color: orange
-  image: /images/2026/10/MLHA_banniere_2026-1024x231.jpg
-  alt: Latin American Heritage Month, October 2026
-  buttons:
-  - label: See the 2026 program
-    url: https://legados.ca/mois-de-l-heritage-latino-americain/mlha2026/
 - type: video
   youtube: KaklklojCu4
   title: Introducing Legados
@@ -37,7 +30,7 @@ sections:
     Classes, workshops and cultural activities create a meeting place where children, teens and adults learn the language while deepening their knowledge of a culture and discovering a community.'
   color: white
 - type: cards
-  color: blue
+  color: red
   heading: Discover our language classes
   cards:
   - title: Spanish as a heritage language
@@ -53,7 +46,7 @@ sections:
       label: See the classes
       url: page:cours#ele
 - type: gallery
-  color: pink
+  color: orange
   align: tall
   images:
   - src: /images/2026/04/atelier-poesie.webp
@@ -84,7 +77,7 @@ sections:
   author: Mariana Marín
   role: Founder of Legados
 - type: band
-  color: blue
+  color: red
   image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
   heading: ¡ Bienvenidos !
   body: 5804 Saint-Laurent Boulevard (corner of Bernard), in the Mile-End.
