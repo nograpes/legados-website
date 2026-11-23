@@ -24,14 +24,16 @@
 <section class="sec sec-{{ t }} bg-{{ x.color or 'white' }}{% if x.align %} align-{{ x.align }}{% endif %}"{% if x.id %} id="{{ x.id }}"{% endif %}>
 
 {% if t == 'hero_home' %}
-  <div class="wrap center">
-    <p class="hero-name">{{ x.title }}</p>
-    {{ img(x.image, '', 'hero-mascot') }}
-    {% for line in x.lines or [] %}
-      {% if loop.first %}<h1 class="hero-line c-{{ line.color or 'blue' }}">{{ line.text }}</h1>
-      {% else %}<p class="hero-line c-{{ line.color or 'blue' }}{% if line.small %} small-line{% endif %}">{{ line.text }}</p>{% endif %}
-    {% endfor %}
-    {{ buttons(x.buttons, 'center') }}
+  <div class="wrap hero">
+    <div class="hero-text">
+      <h1>{% for line in x.lines or [] %}<span class="hero-line{% if line.small %} hero-amp{% endif %}">{{ line.text }}</span>{% endfor %}</h1>
+      {% if x.intro %}<div class="hero-intro">{{ text(x.intro) }}</div>{% endif %}
+      {{ buttons(x.buttons) }}
+    </div>
+    <div class="hero-media">
+      {{ img(x.photo, x.alt, 'hero-photo') }}
+      {% if x.image %}<span class="sticker">{{ img(x.image, '') }}</span>{% endif %}
+    </div>
   </div>
 
 {% elif t == 'page_title' %}
@@ -50,8 +52,8 @@
   </div>
 
 {% elif t == 'video' %}
-  <div class="wrap{% if x.full %} wide{% endif %}">
-    {% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}
+  <div class="wrap{% if x.body or x.heading %} split split-video{% endif %}">
+    {% if x.body or x.heading %}<div class="prose">{% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}{{ text(x.body) }}{{ buttons(x.buttons) }}</div>{% endif %}
     <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{{ x.youtube }}?rel=0" title="{{ x.title or 'Vidéo' }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   </div>
 
@@ -84,7 +86,11 @@
 
 {% elif t == 'band' %}
   <div class="band"{% if x.image %} style="background-image:url('{{ x.image }}')"{% endif %}>
-    <h2>{{ x.heading }}</h2>
+    <div class="wrap band-inner">
+      <h2>{{ x.heading }}</h2>
+      {% if x.body %}<div class="band-text">{{ text(x.body) }}</div>{% endif %}
+      {{ buttons(x.buttons) }}
+    </div>
   </div>
 
 {% elif t == 'people' %}

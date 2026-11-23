@@ -64,6 +64,8 @@ content:
           - { name: heading, label: Titre de section / Heading, type: string }
           - { name: subheading, label: Chapeau / Lead line, type: string }
           - { name: body, label: Texte / Text, type: text }
+          - { name: intro, label: "Texte d’accueil (bandeau d’accueil) / Intro", type: text }
+          - { name: photo, label: "Photo (bandeau d’accueil) / Photo", type: image }
           - { name: columns, label: Colonnes / Columns, type: number }
           - { name: box, label: "Encadré coloré (orange, yellow, white, blue) / Coloured box", type: string }
           - { name: image, label: Image, type: image }
@@ -190,6 +192,8 @@ content:
           - { name: heading, label: Titre de section / Heading, type: string }
           - { name: subheading, label: Chapeau / Lead line, type: string }
           - { name: body, label: Texte / Text, type: text }
+          - { name: intro, label: "Texte d’accueil (bandeau d’accueil) / Intro", type: text }
+          - { name: photo, label: "Photo (bandeau d’accueil) / Photo", type: image }
           - { name: columns, label: Colonnes / Columns, type: number }
           - { name: box, label: "Encadré coloré (orange, yellow, white, blue) / Coloured box", type: string }
           - { name: image, label: Image, type: image }

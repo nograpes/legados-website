@@ -34,6 +34,7 @@ fr:
         - { label: Notre histoire, page: histoire }
         - { label: Notre équipe, page: equipe }
     - { label: Faire un don, page: don }
+  visit_title: Nous trouver
   address_line2: (coin Bernard)
   address_line3: Montréal  H2T 1T3
   newsletter_title: Inscription à l’infolettre
@@ -62,6 +63,7 @@ en:
         - { label: Our story, page: histoire }
         - { label: Our team, page: equipe }
     - { label: Donate, page: don }
+  visit_title: Find us
   address_line2: (corner of Bernard)
   address_line3: Montréal  H2T 1T3
   newsletter_title: Newsletter sign-up

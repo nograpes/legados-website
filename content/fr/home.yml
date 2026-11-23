@@ -3,77 +3,91 @@ slug: ""
 title: Legados – Cours d’espagnol et culture latino-américaine à Montréal
 description: Legados est une école de langue espagnole et un institut culturel latino-américain dans le Mile-End, à Montréal. Pour enfants et adultes.
 sections:
-  - type: hero_home
-    color: yellow
-    title: Legados
-    image: /images/2025/09/cropped-mstile-310x310-1-300x300.png
-    lines:
-      - { text: Cours de langue espagnole, color: blue }
-      - { text: "&", color: orange, small: true }
-      - { text: Culture latino-américaine, color: green }
+- type: hero_home
+  color: yellow
+  lines:
+  - text: Cours de langue espagnole
+  - text: '&'
+    small: true
+  - text: culture latino-américaine
+  intro: Une école de langue et un institut culturel dans le Mile-End, à Montréal. Pour enfants et adultes.
+  photo: /images/2026/04/Legados_cours-espagnol-etudiants.webp
+  alt: Enfants dans un cours d’espagnol à Legados
+  image: /images/2025/09/cropped-mstile-310x310-1-300x300.png
+  buttons:
+  - label: Espagnol langue maternelle
+    url: page:cours#elm
+  - label: Espagnol langue étrangère
+    url: page:cours#ele
+    style: outline
+- type: banner
+  color: orange
+  image: /images/2026/10/MLHA_banniere_2026-1024x231.jpg
+  alt: Mois de l’héritage latino-américain, octobre 2026
+  buttons:
+  - label: Découvrir la programmation de 2026
+    url: https://legados.ca/mois-de-l-heritage-latino-americain/mlha2026/
+- type: video
+  youtube: KaklklojCu4
+  title: Présentation de Legados
+  heading: Legados est une école de langue et un institut culturel
+  body: 'Né de l’expérience de l’immigration et d’un lien profond avec la langue, Legados invite à découvrir l’espagnol à travers ses histoires, ses voix et ses imaginaires.
 
-  - type: banner
-    color: orange
-    image: /images/2026/10/MLHA_banniere_2026-1024x231.jpg
-    alt: Mois de l’héritage latino-américain, octobre 2026
-    buttons:
-      - { label: Découvrir la programmation de 2026, url: "https://legados.ca/mois-de-l-heritage-latino-americain/mlha2026/" }
 
-  - type: video
-    youtube: KaklklojCu4
-    title: Présentation de Legados
+    Cours, ateliers et activités culturelles créent un espace de rencontre où enfants, jeunes et adultes apprennent la langue tout en approfondissant une culture et en découvrant une communauté.'
+  color: white
+- type: cards
+  color: blue
+  heading: Découvrez nos cours de langue
+  cards:
+  - title: Espagnol langue maternelle
+    image: /images/2025/10/enfants-jouant-espagnol-scaled.jpg
+    text: Pour les familles hispanophones qui veulent que leurs enfants enrichissent leur espagnol, de 8 mois à 17 ans.
+    button:
+      label: Voir les cours
+      url: page:cours#elm
+  - title: Espagnol langue étrangère
+    image: /images/2026/04/etudiants-adultes-cours-espagnol.webp
+    text: Pour les enfants et les adultes qui découvrent l’espagnol, du niveau débutant à avancé.
+    button:
+      label: Voir les cours
+      url: page:cours#ele
+- type: gallery
+  color: pink
+  align: tall
+  images:
+  - src: /images/2026/04/atelier-poesie.webp
+    alt: Atelier de poésie en espagnol
+  - src: /images/2026/04/tango-legados.webp
+    alt: Tango
+  - src: /images/2026/04/affiche-accueil-legados2.jpg
+    alt: Affiche de Legados
+  - src: /images/2026/04/groupe-dansant_750x500.webp
+    alt: Groupe qui danse
+  buttons:
+  - label: Participez à nos activités culturelles
+    url: page:culture
+    style: outline
+- type: video
+  color: yellow
+  heading: Viens apprendre et vivre en espagnol avec nous!
+  youtube: aKgO1s7yjpA
+  title: Viens apprendre et vivre en espagnol avec nous!
+- type: quote
+  color: white
+  image: /images/2025/12/Mariana-legados.webp
+  text: '«Plus qu’une école de langue, Legados est un lieu où l’espagnol devient culture, héritage et transformation personnelle.
 
-  - type: text
-    color: blue
-    box: yellow
-    align: center
-    heading: Legados est une école de langue et un institut culturel. Pour enfants et adultes.
-    body: |
-      Né de l’expérience de l’immigration et d’un lien profond avec la langue, Legados invite à découvrir l’espagnol à travers ses histoires, ses voix et ses imaginaires.
+    Legados change des vies.»
 
-      Cours, ateliers et activités culturelles créent un espace de rencontre où enfants, jeunes et adultes apprennent la langue tout en approfondissant une culture et en découvrant une communauté.
-
-  - type: text
-    color: grey
-    image: /images/2026/03/Multiblocs.svg
-    image_side: left
-    image_shape: plain
-    heading: Découvrez nos cours de langue!
-    buttons:
-      - { label: Espagnol langue maternelle →, url: "page:cours#elm", style: outline }
-      - { label: Espagnol langue étrangère →, url: "page:cours#ele", style: outline }
-
-  - type: gallery
-    color: yellow
-    images:
-      - { src: /images/2026/04/etudiants-adultes-cours-espagnol.webp, alt: Adultes dans un cours d’espagnol }
-      - { src: /images/2026/04/Legados_cours-espagnol-etudiants.webp, alt: Enfants dans un cours d’espagnol }
-
-  - type: video
-    youtube: aKgO1s7yjpA
-    title: Viens apprendre et vivre en espagnol avec nous!
-
-  - type: gallery
-    color: pink
-    align: tall
-    images:
-      - { src: /images/2026/04/atelier-poesie.webp, alt: Atelier de poésie en espagnol }
-      - { src: /images/2026/04/tango-legados.webp, alt: Tango }
-      - { src: /images/2026/04/affiche-accueil-legados2.jpg, alt: Affiche de Legados }
-      - { src: /images/2026/04/groupe-dansant_750x500.webp, alt: Groupe qui danse }
-    buttons:
-      - { label: Participez à nos activités culturelles →, url: "page:culture", style: outline }
-
-  - type: quote
-    color: grey
-    image: /images/2025/12/Mariana-legados.webp
-    text: |
-      «Plus qu’une école de langue, Legados est un lieu où l’espagnol devient culture, héritage et transformation personnelle.
-      Legados change des vies.»
-    author: Mariana Marín
-    role: Fondatrice de Legados
-
-  - type: band
-    color: blue
-    image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
-    heading: ¡ Bienvenidos !
+    '
+  author: Mariana Marín
+  role: Fondatrice de Legados
+- type: band
+  color: blue
+  image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
+  heading: ¡ Bienvenidos !
+  body: 5804, boulevard Saint-Laurent (coin Bernard), dans le Mile-End.
+  buttons:
+  - label: Nous joindre
+    url: page:contact

@@ -3,77 +3,91 @@ slug: ""
 title: Legados – Spanish classes and Latin American culture in Montreal
 description: Legados is a Spanish language school and Latin American cultural institute in Montreal’s Mile-End. For children and adults.
 sections:
-  - type: hero_home
-    color: yellow
-    title: Legados
-    image: /images/2025/09/cropped-mstile-310x310-1-300x300.png
-    lines:
-      - { text: Spanish language classes, color: blue }
-      - { text: "&", color: orange, small: true }
-      - { text: Latin American culture, color: green }
+- type: hero_home
+  color: yellow
+  lines:
+  - text: Spanish language classes
+  - text: '&'
+    small: true
+  - text: Latin American culture
+  intro: A language school and cultural institute in Montreal’s Mile-End. For children and adults.
+  photo: /images/2026/04/Legados_cours-espagnol-etudiants.webp
+  alt: Children in a Spanish class at Legados
+  image: /images/2025/09/cropped-mstile-310x310-1-300x300.png
+  buttons:
+  - label: Spanish as a heritage language
+    url: page:cours#elm
+  - label: Spanish as a foreign language
+    url: page:cours#ele
+    style: outline
+- type: banner
+  color: orange
+  image: /images/2026/10/MLHA_banniere_2026-1024x231.jpg
+  alt: Latin American Heritage Month, October 2026
+  buttons:
+  - label: See the 2026 program
+    url: https://legados.ca/mois-de-l-heritage-latino-americain/mlha2026/
+- type: video
+  youtube: KaklklojCu4
+  title: Introducing Legados
+  heading: Legados is a language school and a cultural institute
+  body: 'Born of the immigrant experience and a deep bond with language, Legados invites you to discover Spanish through its stories, its voices and its imagination.
 
-  - type: banner
-    color: orange
-    image: /images/2026/10/MLHA_banniere_2026-1024x231.jpg
-    alt: Latin American Heritage Month, October 2026
-    buttons:
-      - { label: See the 2026 program, url: "https://legados.ca/mois-de-l-heritage-latino-americain/mlha2026/" }
 
-  - type: video
-    youtube: KaklklojCu4
-    title: Introducing Legados
+    Classes, workshops and cultural activities create a meeting place where children, teens and adults learn the language while deepening their knowledge of a culture and discovering a community.'
+  color: white
+- type: cards
+  color: blue
+  heading: Discover our language classes
+  cards:
+  - title: Spanish as a heritage language
+    image: /images/2025/10/enfants-jouant-espagnol-scaled.jpg
+    text: For Spanish-speaking families who want their children to enrich their Spanish, from 8 months to 17 years.
+    button:
+      label: See the classes
+      url: page:cours#elm
+  - title: Spanish as a foreign language
+    image: /images/2026/04/etudiants-adultes-cours-espagnol.webp
+    text: For children and adults discovering Spanish, from beginner to advanced.
+    button:
+      label: See the classes
+      url: page:cours#ele
+- type: gallery
+  color: pink
+  align: tall
+  images:
+  - src: /images/2026/04/atelier-poesie.webp
+    alt: Spanish poetry workshop
+  - src: /images/2026/04/tango-legados.webp
+    alt: Tango
+  - src: /images/2026/04/affiche-accueil-legados2.jpg
+    alt: Legados poster
+  - src: /images/2026/04/groupe-dansant_750x500.webp
+    alt: A group dancing
+  buttons:
+  - label: Join our cultural activities
+    url: page:culture
+    style: outline
+- type: video
+  color: yellow
+  heading: Come learn and live in Spanish with us!
+  youtube: aKgO1s7yjpA
+  title: Come learn and live in Spanish with us!
+- type: quote
+  color: white
+  image: /images/2025/12/Mariana-legados.webp
+  text: '“More than a language school, Legados is a place where Spanish becomes culture, heritage and personal transformation.
 
-  - type: text
-    color: blue
-    box: yellow
-    align: center
-    heading: Legados is a language school and a cultural institute. For children and adults.
-    body: |
-      Born of the immigrant experience and a deep bond with language, Legados invites you to discover Spanish through its stories, its voices and its imagination.
+    Legados changes lives.”
 
-      Classes, workshops and cultural activities create a meeting place where children, teens and adults learn the language while deepening their knowledge of a culture and discovering a community.
-
-  - type: text
-    color: grey
-    image: /images/2026/03/Multiblocs.svg
-    image_side: left
-    image_shape: plain
-    heading: Discover our language classes!
-    buttons:
-      - { label: Spanish as a heritage language →, url: "page:cours#elm", style: outline }
-      - { label: Spanish as a foreign language →, url: "page:cours#ele", style: outline }
-
-  - type: gallery
-    color: yellow
-    images:
-      - { src: /images/2026/04/etudiants-adultes-cours-espagnol.webp, alt: Adults in a Spanish class }
-      - { src: /images/2026/04/Legados_cours-espagnol-etudiants.webp, alt: Children in a Spanish class }
-
-  - type: video
-    youtube: aKgO1s7yjpA
-    title: Come learn and live in Spanish with us!
-
-  - type: gallery
-    color: pink
-    align: tall
-    images:
-      - { src: /images/2026/04/atelier-poesie.webp, alt: Spanish poetry workshop }
-      - { src: /images/2026/04/tango-legados.webp, alt: Tango }
-      - { src: /images/2026/04/affiche-accueil-legados2.jpg, alt: Legados poster }
-      - { src: /images/2026/04/groupe-dansant_750x500.webp, alt: A group dancing }
-    buttons:
-      - { label: Join our cultural activities →, url: "page:culture", style: outline }
-
-  - type: quote
-    color: grey
-    image: /images/2025/12/Mariana-legados.webp
-    text: |
-      “More than a language school, Legados is a place where Spanish becomes culture, heritage and personal transformation.
-      Legados changes lives.”
-    author: Mariana Marín
-    role: Founder of Legados
-
-  - type: band
-    color: blue
-    image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
-    heading: ¡ Bienvenidos !
+    '
+  author: Mariana Marín
+  role: Founder of Legados
+- type: band
+  color: blue
+  image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
+  heading: ¡ Bienvenidos !
+  body: 5804 Saint-Laurent Boulevard (corner of Bernard), in the Mile-End.
+  buttons:
+  - label: Contact us
+    url: page:contact

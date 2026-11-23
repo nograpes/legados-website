@@ -41,15 +41,22 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
 - Claude can reach the GitHub API (runs, job logs, workflow_dispatch) with curl
   through the session proxy; `gh` and the GitHub MCP didn't work on 2026-11-23.
 
-## Design
-- Own CSS (static/css/style.css), written from scratch — **don't copy code or layouts
-  from the WordPress theme (Astra/Spectra)**; Aman asked for a redesign "in a similar
-  style" with no copyright issues. Reused only Legados's own assets: logo, the
-  armadillo mascot (Quirquincho), photos, text, Multiblocs.svg, brand colours.
-- Fonts self-hosted (no Google Fonts): Ubuntu (Ubuntu Font Licence) for headings,
-  Mulish (OFL) for text, from @fontsource; licence files in static/fonts.
-- Palette: yellow #efdd17, orange #f6931e, red #ec1c24, button red-orange #ea3b0e,
-  blue #00a1ed, green #00aa4e, pink #f6c5dc, footer cream #f4efea.
+## Design (redesigned 2026-11-23 — Aman found the first version too close to the WordPress site)
+- Must look clearly **different from the old WordPress site** (copyright concern): own CSS
+  written from scratch, never copy code/layouts from the old theme (Astra/Spectra).
+  Reused only Legados's own assets: logo, the armadillo mascot (Quirquincho), photos,
+  text, Multiblocs.svg, brand colours.
+- Look: white base, deep indigo text and pill buttons (#1d2340), section backgrounds are
+  light tints of the brand colours (the `color` names in content map to tints: yellow →
+  #fff6c4, blue → #e2f3fc, pink → #fde6f0, orange → #ffe9d1, grey → #f2f3f7). The one bold
+  element is a **multicolour stripe** (red/orange/yellow/green/blue/pink) at the top of
+  the header, top of the indigo footer, and as a short bar under page titles.
+- Home hero: big headline left, photo right with the mascot as a round "sticker".
+  Quote = indigo panel with round photo; "¡Bienvenidos!" = photo band, text bottom-left.
+- Fonts self-hosted (no Google Fonts): Bricolage Grotesque (headings) and Figtree (text),
+  both OFL, from @fontsource; licence files in static/fonts.
+- Brand colours: red #ec1c24, orange #f6931e, yellow #efdd17, green #00aa4e,
+  blue #00a1ed, pink #e86fa8. No "→" in button labels.
 
 ## Still pointing at the old WordPress site (to replace before WordPress goes away)
 - Registration buttons ("Inscription") → WooCommerce shop pages legados.ca/shop/…

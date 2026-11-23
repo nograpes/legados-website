@@ -12,24 +12,15 @@
   {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
   <meta property="og:image" content="{{ s.site_url }}{{ page.share_image or s.share_image }}">
   <link rel="icon" href="{{ s.favicon }}">
-  <link rel="preload" href="/fonts/mulish-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/fonts/ubuntu-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/bricolage-grotesque-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/css/style.css?v={{ v.css }}">
 </head>
 <body>
 <a class="skip" href="#main">{{ s.skip_link }}</a>
 
-<div class="topbar">
-  <div class="wrap topbar-inner">
-    <span class="tagline">{{ s.tagline }}</span>
-    <span class="topbar-links">
-      <a href="{{ link('page:contact') }}">{{ s.contact_label }}</a>
-      <a href="{{ other_url }}" hreflang="{{ other_lang }}" lang="{{ other_lang }}" class="lang-switch">{{ s.other_language }}</a>
-    </span>
-  </div>
-</div>
-
 <header class="site-header">
+  <div class="stripe" aria-hidden="true"></div>
   <div class="wrap header-inner">
     <a href="{{ link('page:home') }}" class="logo"><img src="{{ s.logo }}" alt="Legados" width="266" height="50"></a>
     <button class="menu-toggle" aria-expanded="false" aria-controls="menu">{{ s.menu_label }}</button>
@@ -48,6 +39,8 @@
         <li{% if active %} class="active"{% endif %}><a href="{{ link(item.url or 'page:' ~ item.page) }}"{% if item.page == current_key %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
         {% endif %}
       {% endfor %}
+        <li{% if current_key == 'contact' %} class="active"{% endif %}><a href="{{ link('page:contact') }}">{{ s.contact_label }}</a></li>
+        <li class="lang-item"><a href="{{ other_url }}" hreflang="{{ other_lang }}" lang="{{ other_lang }}" class="lang-switch">{{ s.other_language }}</a></li>
       </ul>
     </nav>
   </div>
@@ -60,10 +53,16 @@
 </main>
 
 <footer class="site-footer">
+  <div class="stripe" aria-hidden="true"></div>
   <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <img src="{{ s.mascot }}" alt="" class="footer-mascot" width="72" height="72">
+      <p class="footer-tagline">{{ s.tagline }}</p>
+    </div>
     <div>
-      <img src="{{ s.mascot }}" alt="" class="footer-mascot" width="90" height="90">
-      <p class="small">© {{ s.year }} Legados</p>
+      <h2 class="footer-title">{{ s.visit_title }}</h2>
+      <p><a href="{{ s.map_link }}">{{ s.address_line1 }}<br>{{ s.address_line2 }}<br>{{ s.address_line3 }}</a></p>
+      <p><a href="tel:{{ s.phone_link }}">{{ s.phone }}</a><br><a href="mailto:{{ s.email }}">{{ s.email }}</a></p>
     </div>
     <div>
       <h2 class="footer-title">{{ s.newsletter_title }}</h2>
@@ -75,21 +74,16 @@
         <button type="submit" class="btn btn-small">{{ s.newsletter_button }}</button>
       </form>
       {% else %}
-      <p class="small">{{ s.newsletter_soon }} <a href="mailto:{{ s.email }}">{{ s.email }}</a></p>
+      <p>{{ s.newsletter_soon }} <a href="mailto:{{ s.email }}">{{ s.email }}</a></p>
       {% endif %}
     </div>
     <div>
-      <h2 class="footer-title">Legados</h2>
-      <p class="small"><a href="{{ s.map_link }}">{{ s.address_line1 }}</a><br>{{ s.address_line2 }}<br>{{ s.address_line3 }}<br>
-      <a href="tel:{{ s.phone_link }}">{{ s.phone }}</a><br>
-      <a href="mailto:{{ s.email }}">{{ s.email }}</a></p>
-    </div>
-    <div>
       <p class="stars" aria-hidden="true">★★★★★</p>
-      <p class="small">{{ s.reviews_text }}<br><a href="{{ s.reviews_link }}">{{ s.reviews_link_label }}</a></p>
-      <p class="small"><a href="{{ link('page:don') }}">{{ s.donate_label }}</a></p>
+      <p>{{ s.reviews_text }}<br><a href="{{ s.reviews_link }}">{{ s.reviews_link_label }}</a></p>
+      <p><a class="btn btn-small btn-sun" href="{{ link('page:don') }}">{{ s.donate_label }}</a></p>
     </div>
   </div>
+  <div class="wrap footer-bottom">© {{ s.year }} Legados</div>
 </footer>
 <script src="/js/site.js?v={{ v.js }}" defer></script>
 </body>
