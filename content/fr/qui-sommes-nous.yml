@@ -1,73 +1,70 @@
 key: qui-sommes-nous
 slug: a-propos/qui-sommes-nous
 title: Qui sommes-nous
-description: Legados est une école de langue espagnole et un centre culturel à but non lucratif à Montréal, né du vécu de l’immigration.
+description: Legados est un institut latino-américain de transmission de la langue et de la culture, organisme de bienfaisance fondé en 2017 dans le Mile-End, à Montréal.
 sections:
   - type: page_title
-    title: Une école de langue espagnole et un institut culturel
+    title: Qui sommes-nous
     align: center
 
   - type: text
     color: red
     image: /images/2025/12/legados-une-histoire-d-immigration.jpg
     image_side: right
+    heading: Un institut latino-américain de transmission de la langue et de la culture
     body: |
-      ### Legados est une école de langue et un centre culturel situé à Montréal. Nous offrons des cours d’espagnol pensés comme une expérience vivante. Legados est un organisme à but non lucratif.
+      Legados est un organisme de bienfaisance enregistré, fondé en 2017 dans le Mile-End, à Montréal. Son nom signifie « héritages » en espagnol.
 
-      Né du vécu de l’immigration et du lien profond que nous entretenons avec nos langues, Legados est un lieu où l’espagnol se raconte, se joue, se ressent et se partage. On y apprend la langue en entrant dans ses histoires, ses voix, ses gestes et ses imaginaires.
+      Il est né de l’expérience de sa fondatrice, mère immigrante latino-américaine, et du désir de garder l’espagnol vivant d’une génération à l’autre — notamment pour les enfants qui grandissent avec l’espagnol à la maison, dans un environnement francophone et anglophone.
 
-      Cours, ateliers et événements culturels tissent un espace de création et de communauté. Ici, l’espagnol devient un lieu de reconnaissance et de joie, un pont entre les mémoires et le présent.
-
-      Enfants, jeunes et adultes y développent bien plus que des compétences linguistiques : ils y trouvent une langue à habiter.
+      Ancré dans la communauté, Legados accompagne directement les familles hispanophones de Montréal. Son programme d’espagnol langue d’héritage, qui allie la langue à la littérature, aux arts et à la culture latino-américaine, a été développé en réponse aux besoins exprimés par les familles elles-mêmes.
 
   - type: text
-    heading: Notre raison d’être
-    body: |
-      Legados est né d’un constat partagé par de nombreuses personnes immigrantes : avec le temps, la langue d’origine peut s’effacer, se fragmenter ou se taire. Pourtant, elle demeure porteuse de récits, de mémoires et d’émotions profondes. Legados est né de ce désir de ne pas laisser cette langue disparaître, de lui offrir un espace vivant où elle peut être parlée, transmise et transformée.
-
-  - type: text
+    id: mission
     color: yellow
+    heading: Notre mission
+    body: |
+      Legados a pour mission de favoriser la transmission et le développement de la langue espagnole et des cultures latino-américaines à Montréal.
+
+      Par ses cours, ses ateliers et ses activités culturelles et artistiques, Legados crée des espaces d’apprentissage, de création et de rencontre où la langue devient un lien entre les générations. Une attention particulière est portée aux familles issues de l’immigration, pour qui la langue d’origine est un patrimoine vivant. Legados contribue ainsi à la vitalité de la diversité culturelle montréalaise et au sentiment d’appartenance des communautés latino-américaines.
+
+  - type: text
     image: /images/2025/12/Legados_cours-espagnol-etudiants-7-1-1024x683.png
     image_side: left
-    heading: Apprendre l’espagnol autrement
+    heading: Pourquoi la langue d’héritage est importante
     body: |
-      À Legados, apprendre l’espagnol ne se résume pas à mémoriser des règles ou du vocabulaire. La langue est vécue comme une expérience globale, humaine et incarnée. On l’apprend en parlant, en lisant, en écoutant, en créant et en échangeant.
+      Les enfants immigrants ou nouvellement arrivés apprennent souvent le français ou l’anglais alors que leur langue maternelle présente des lacunes. Cela peut freiner leur communication, leur participation à l’école, leur confiance et leurs liens avec leur famille, surtout lorsque leur parcours scolaire a été interrompu.
 
-      Les cours sont pensés comme des espaces de rencontre, où la langue prend sens dans des contextes culturels réels, en lien avec les parcours et les identités des apprenants.
-
-  - type: text
-    heading: "La littérature : au cœur du projet"
-    columns: 2
-    body: |
-      La littérature occupe une place centrale à Legados. Lire, c’est entrer en dialogue avec une culture, une tradition et une langue. Les œuvres latino-américaines — classiques et contemporaines, adaptées selon les âges — ouvrent des portes vers l’imaginaire, la réflexion et la compréhension du monde.
-
-      La tradition orale, les récits familiaux et les histoires du quotidien nourrissent également cette approche, faisant de la lecture un acte vivant et partagé.
-
-  - type: text
-    color: orange
-    image: /images/2025/12/filosofia-teatro-web.jpg
-    image_side: right
-    heading: Les arts comme langage
-    body: |
-      Le théâtre, les arts plastiques, le chant et la musique font partie intégrante de l’apprentissage à Legados. Ces pratiques artistiques soutiennent l’expression, la confiance et la créativité, tout en renforçant le lien affectif avec la langue.
+      Renforcer la langue d’héritage consolide les bases — vocabulaire, compréhension, communication — qui facilitent l’apprentissage d’une nouvelle langue. L’enfant y gagne aussi confiance et identité : une base solide pour participer pleinement à sa nouvelle communauté, tout en restant lié à sa famille et à sa culture.
 
   - type: cards
-    color: grey
+    color: orange
+    heading: Ce que nous faisons
+    body: Legados répond à la perte de la langue d’héritage chez les enfants de familles immigrantes et multilingues par un enseignement de l’espagnol ancré dans la culture, l’identité et le vécu.
     cards:
-      - title: La culture pour créer la communauté
-        text: |
-          Legados est aussi un lieu de vie culturelle. À travers des lectures, rencontres, ateliers et événements artistiques, l’institut crée des espaces de dialogue et de partage ouverts à la communauté.
+      - title: Pour les enfants
+        text: Des cours adaptés à chaque âge, du matériel culturellement pertinent, des ateliers artistiques et des expériences d’immersion, pour que les enfants comprennent, parlent, lisent et écrivent l’espagnol avec confiance, tout en apprenant le français ou l’anglais.
+      - title: Au-delà de Legados
+        text: Nous développons une pédagogie propre à l’espagnol langue d’héritage, et des outils que des organismes partenaires, des écoles et d’autres milieux communautaires pourront utiliser à leur tour.
+      - title: Pour les familles et la communauté
+        text: Une langue d’héritage solide nourrit la communication entre les générations et l’identité culturelle. Legados a aussi collaboré avec des professionnel·les qui accompagnent des enfants nouvellement arrivés ayant un retard de langage.
 
-          Ces événements prolongent l’apprentissage et font de la langue un véritable vecteur de rencontre interculturelle.
-      - title: À qui s’adresse Legados
-        text: |
-          Legados s’adresse aux enfants, aux jeunes et aux adultes qui souhaitent apprendre ou approfondir l’espagnol dans un cadre humain et stimulant. Aux familles qui désirent transmettre une langue et une culture. Aux personnes issues de l’immigration comme à celles qui découvrent l’espagnol par curiosité ou par affinité.
-      - title: Une vision
-        text: |
-          Legados repose sur une conviction simple et forte : les langues sont des espaces de vie, de mémoire et de création. Les faire vivre, les transmettre et les partager est un geste essentiel.
+  - type: text
+    color: grey
+    image: /images/2025/12/filosofia-teatro-web.jpg
+    image_side: right
+    heading: Notre approche
+    body: |
+      Faire vivre la langue par la culture. On apprend l’espagnol en parlant, en lisant, en créant et en échangeant : la littérature latino-américaine est au cœur des cours, et le théâtre, la musique et les arts soutiennent l’expression.
+
+      Nous offrons des programmes d’espagnol langue maternelle et langue étrangère, des ateliers culturels (tango, écriture créative, chorale) et une bibliothèque d’environ 1 200 livres en espagnol, gratuite pour nos élèves.
+    buttons:
+      - { label: Nos cours d’espagnol, url: "page:cours" }
+      - { label: Activités culturelles, url: "page:culture", style: outline }
+      - { label: La bibliothèque, url: "page:bibliotheque", style: outline }
 
   - type: text
     color: red
     align: center
     body: |
-      ### Choisir Legados, c’est rejoindre un lieu où l’espagnol est vivant, habité et en constante évolution — un lieu pour apprendre, créer et faire dialoguer les héritages.
+      ### Enfants, jeunes et adultes, familles hispanophones ou curieux de l’espagnol : choisir Legados, c’est rejoindre un lieu où l’espagnol est vivant et où les héritages dialoguent.

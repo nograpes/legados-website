@@ -68,7 +68,13 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
   Mailchimp's embedded-form URL to show the sign-up form; until then the footer shows
   the email address.
 
-## Content questions noticed during migration
-- Notre histoire says the project started in 2015; team bios say Mariana founded
-  Legados in 2017.
+## Content notes
+- "Qui sommes-nous / Who we are" was rewritten 2026-11-23 from Aman's official texts
+  (mission statement, organization description, heritage-language rationale, activities
+  and beneficiaries, community roots) — **condensed on purpose** (Aman: "condense
+  everything"). Keep that page short. Grant-style details (impact measurement) left out.
+- Official facts from those texts: registered charity, **founded 2017**, Mile End; name
+  means "heritage"; library ≈ 1,200 Spanish books, free for Legados students; workshops
+  include tango, creative writing, choir.
+- Notre histoire still says the project started in 2015 (official texts: founded 2017).
 - Andrea Restrepo has no photo on the old site.
