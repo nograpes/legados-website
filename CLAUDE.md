@@ -76,5 +76,8 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
 - Official facts from those texts: registered charity, **founded 2017**, Mile End; name
   means "heritage"; library ≈ 1,200 Spanish books, free for Legados students; workshops
   include tango, creative writing, choir.
+- Founder's story (Mariana's daughters losing Spanish → Legados; 8+ years of research with
+  Silvina Montrul, Kim Potowski (U. Illinois), Enrique Pato (UdeM); textbook *Monopatín 1*
+  tested 3 years, becoming a digital platform) is summarized as a quote + one paragraph.
 - Notre histoire still says the project started in 2015 (official texts: founded 2017).
 - Andrea Restrepo has no photo on the old site.

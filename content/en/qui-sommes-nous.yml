@@ -19,6 +19,12 @@ sections:
 
       Rooted in the community, Legados works directly with Spanish-speaking families in Montréal. Its Spanish Heritage Language program combines language learning with Latin American literature, arts and culture, and was developed in response to needs identified by families themselves.
 
+  - type: quote
+    image: /images/2025/12/Mariana-legados.webp
+    text: “I watched my daughters’ Spanish slowly fade, and realized that speaking it at home wasn’t enough. Children also need to read, write, grow their vocabulary and know their culture. That’s how Legados began.”
+    author: Mariana Marín
+    role: Founder of Legados
+
   - type: text
     id: mission
     color: yellow
@@ -58,6 +64,8 @@ sections:
       We bring language to life through culture. Spanish is learned by speaking, reading, creating and sharing: Latin American literature is at the heart of our classes, with theatre, music and the arts supporting expression.
 
       We offer Spanish programs for heritage and foreign language learners, cultural workshops (tango, creative writing, choir) and a library of about 1,200 Spanish-language books, free for our students.
+
+      For more than eight years, this approach has been built through classroom practice and research, with specialists including Silvina Montrul and Kim Potowski (University of Illinois) and Enrique Pato (Université de Montréal). Our first textbook, *Monopatín 1*, has been tested in classrooms for three years; we are now turning it into a digital platform and developing new levels, to reach thousands of families across North America.
     buttons:
       - { label: Our Spanish classes, url: "page:cours" }
       - { label: Cultural activities, url: "page:culture", style: outline }

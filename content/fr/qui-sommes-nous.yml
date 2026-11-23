@@ -19,6 +19,12 @@ sections:
 
       Ancré dans la communauté, Legados accompagne directement les familles hispanophones de Montréal. Son programme d’espagnol langue d’héritage, qui allie la langue à la littérature, aux arts et à la culture latino-américaine, a été développé en réponse aux besoins exprimés par les familles elles-mêmes.
 
+  - type: quote
+    image: /images/2025/12/Mariana-legados.webp
+    text: « J’ai vu l’espagnol de mes filles s’effacer peu à peu, et j’ai compris que le parler à la maison ne suffisait pas. Les enfants ont aussi besoin de lire, d’écrire, d’enrichir leur vocabulaire et de connaître leur culture. C’est de là qu’est né Legados. »
+    author: Mariana Marín
+    role: Fondatrice de Legados
+
   - type: text
     id: mission
     color: yellow
@@ -58,6 +64,8 @@ sections:
       Faire vivre la langue par la culture. On apprend l’espagnol en parlant, en lisant, en créant et en échangeant : la littérature latino-américaine est au cœur des cours, et le théâtre, la musique et les arts soutiennent l’expression.
 
       Nous offrons des programmes d’espagnol langue maternelle et langue étrangère, des ateliers culturels (tango, écriture créative, chorale) et une bibliothèque d’environ 1 200 livres en espagnol, gratuite pour nos élèves.
+
+      Depuis plus de huit ans, cette approche se construit entre pratique en classe et recherche, avec des spécialistes comme Silvina Montrul et Kim Potowski (University of Illinois) et Enrique Pato (Université de Montréal). Notre premier livre pédagogique, *Monopatín 1*, a été testé en classe pendant trois ans; nous travaillons maintenant à en faire une plateforme numérique et à créer de nouveaux niveaux, pour rejoindre des milliers de familles en Amérique du Nord.
     buttons:
       - { label: Nos cours d’espagnol, url: "page:cours" }
       - { label: Activités culturelles, url: "page:culture", style: outline }
