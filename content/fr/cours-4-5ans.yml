@@ -1,0 +1,101 @@
+key: cours-4-5ans
+slug: cours-d-espagnol-montreal/4-5ans
+title: Espagnol en trottinette (4-5 ans)
+description: Cours d’espagnol langue maternelle pour enfants de 4 et 5 ans de familles hispanophones, le samedi dans le Mile-End à Montréal.
+sections:
+  - type: page_title
+    eyebrow: Cours d’espagnol langue maternelle
+    title: Espagnol en trottinette (4-5 ans)
+    align: center
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/4-5ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Ce cours d’espagnol langue maternelle s’adresse aux enfants issus de familles hispanophones.
+
+      Il permet d’élargir et de développer l’espagnol que les enfants apportent de la maison, en renforçant les variantes qu’ils connaissent déjà, avec un accent sur l’acquisition et l’enrichissement du lexique.
+
+      Chaque classe utilise comme outils pédagogiques une lecture du jour (contes latino-américains, poèmes, fables et autres) ainsi qu’une chanson associée, afin de proposer des activités interactives qui consolident le vocabulaire et l’expression orale en espagnol.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Enfants 4-5 ans\n> Issus d’une famille hispanophone"
+      - "> Cours de groupe\n> Max 12 participants"
+      - "> Samedi\n> 9 h 30 – 11 h 30\n> 325 $"
+
+  - type: gallery
+    columns: 1
+    images:
+      - { src: /images/2026/05/Monopatin-enfants-lisant-sur-un-canape.webp, alt: Enfants qui lisent sur un canapé }
+
+  - type: text
+    columns: 2
+    body: |
+      Dans Trottinette, nous élargissons le regard : les enfants explorent les notions de communauté, de liens et d’appartenance.
+
+      Les cours mettent l’accent sur l’identité, la famille, les émotions et la culture hispanophone à travers des lectures, des chansons et des lignes thématiques soutenues tout au long de la session. Les apprenants de Monopatín sont initiés au développement de la compétence interculturelle : ils apprennent à différencier l’espagnol des autres langues et à le valoriser.
+
+      À travers le voyage du Quirquincho, la mascotte de Legados, les enfants découvrent son histoire de migration et suivent son chemin vers Legados.
+
+      Les activités proposées contribuent également au développement global des enfants. Ils sont invités à explorer les perceptions sensorielles, exercer la motricité globale et fine, stimuler le tracé graphomoteur, expérimenter l’organisation spatiale et temporelle et développer leur imagination.
+
+      Tout au long de la session, les enfants travaillent vers un projet intégrateur. Ce projet permet de rassembler les apprentissages dans une affiche individuelle intitulée *Mi mundo en español*, qui met en valeur les expériences de lecture et les découvertes réalisées pendant la session.
+
+      Cette affiche est partagée avec les familles à la fin de chaque session dans le cadre de l’événement « Célébration des apprentissages ».
+
+  - type: cards
+    color: yellow
+    heading: Les objectifs
+    cards:
+      - title: Compréhension et expression en espagnol
+        text: Les enfants découvrent l’espagnol dans toute sa vivacité — non seulement à la maison, mais aussi dans le monde qui les entoure. On les aide à intégrer la langue dans leur quotidien, en jouant, en parlant, en chantant.
+      - title: Développement personnel et culturel
+        text: "Trottinette invite les enfants à explorer leur univers immédiat et à poser les bases de leur identité : le « Je »."
+      - title: Compétences artistiques et linguistiques
+        text: En chantant, en bougeant, en créant, les enfants développent leur imagination et leur aisance à s’exprimer. La langue devient un terrain de jeu, un outil de création et un moyen d’affirmer qui ils sont.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Une approche pédagogique vivante et complète
+    body: |
+      ### Des thèmes qui parlent aux enfants
+      Grâce à des histoires, des chansons, des images et des extraits vidéo, les enfants explorent des thèmes concrets et actuels comme l’environnement, la famille ou la communauté. Ils enrichissent leur vocabulaire tout en développant leur compréhension du monde hispanophone.
+
+      ### Apprendre en jouant, créer en apprenant
+      En plus des lectures et des échanges oraux, les enfants bougent, dessinent, chantent, participent à des jeux physiques et à des activités de pré-écriture. Tout est pensé pour que l’apprentissage soit actif, stimulant et joyeux.
+
+      ### Un espace pour s’exprimer et s’affirmer
+      Ce cours leur offre un cocon sécurisant pour nourrir leur imagination, renforcer leur confiance et découvrir la richesse de la culture latino-américaine. Les enfants se rapprochent de leurs racines, apprennent à s’exprimer avec authenticité — en espagnol et avec fierté.
+
+  - type: people
+    heading: Professeure du cours
+    people:
+      - name: Rosario Rivero
+        photo: /images/2026/03/Rosario-Rivero-prof-espagnol.jpg
+        bio: |
+          « Je suis née à La Havane, là où la langue danse autant que la musique. Diplômée en langue et littérature françaises de l’Université de La Havane, spécialisée en linguistique, j’enseigne depuis plus de dix ans au primaire et au secondaire.
+
+          Enseigner ma langue maternelle, c’est faire vibrer les mots. J’aime l’énergie contagieuse des enfants, leurs éclats de rire, leurs questions qui fusent. Dans ma classe, on parle, on chante, on joue, on découvre. Chaque petit progrès est une fête. Hors de la classe, je garde le rythme : je lis, je danse, je marche en nature, je respire la mer, je savoure le théâtre. Curieuse, passionnée, toujours en mouvement. »
+
+  - type: cards
+    color: yellow
+    heading: Horaire
+    body: Les samedis de 9 h 30 à 11 h 30 – 13 semaines
+    cards:
+      - { title: Automne 2026, text: "12 septembre au 5 décembre\nCongé : 10 octobre" }
+      - { title: Hiver 2027, text: "9 janvier au 20 mars\nCongé : 6 mars" }
+      - { title: Printemps 2027, text: "3 avril au 5 juin" }
+
+  - type: text
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End.
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/4-5ans/" }

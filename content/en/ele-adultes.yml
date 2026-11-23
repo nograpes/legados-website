@@ -1,0 +1,133 @@
+key: ele-adultes
+slug: spanish-classes/spanish-for-adults
+title: Spanish classes for adults
+description: Spanish as a foreign language for adults in Montreal, levels A1 to C1 (CEFR). Small groups of 8, 8-week sessions.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a foreign language
+    title: Spanish classes for adults
+    subtitle: Regular group class
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-etrangere/cours-regulier/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Legados’s Spanish classes for adults offer a complete, effective and fast learning experience, aligned with the [Common European Framework of Reference for Languages (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages), a level system recognized worldwide.
+
+      We guarantee steady progress in your learning (speaking, reading, writing, listening and understanding cultures). You will be guided by highly qualified teachers who use innovative methods adapted to learners’ needs.
+
+      **The focus is on culture, the arts and everyday life.**
+
+  - type: facts
+    color: orange
+    items:
+      - "> Adults\n> Spanish as a foreign language\n> Several levels"
+      - "> Group class\n> Max. 8 participants\n> In person"
+      - "> 8-week session\n> 3-hour classes\n> $425"
+
+  - type: text
+    image: /images/2025/04/4._curso_regular_privado-2016x1512-1-1024x768.jpg
+    image_side: right
+    heading: 2026-2027 calendar
+    body: |
+      The 2026-2027 year has 5 sessions: 2 in the fall, 2 in the winter and 1 in the spring.
+
+      - **Fall 1:** August 31 – October 23
+      - **Fall 2:** October 26 – December 14
+      - **Winter 1:** January 4 – February 26 (registration opens November 15)
+      - **Winter 2:** March 1 – April 23 (registration opens January 20)
+      - **Spring:** April 26 – June 18 (registration opens March 15)
+
+      | Level | Schedule |
+      |---|---|
+      | A1.1, A1.2 and A1.3 | Thursday: 5:30 – 8:45 p.m. |
+      | A2.2 | Monday: 5:30 – 8:45 p.m. |
+      | A2.3* | Wednesday: 6:40 – 8:40 p.m. |
+      | B1.2 | Tuesday: 5:30 – 8:45 p.m. |
+
+      \*A2.3 sessions: September 2 – November 18 // November 25 – February 24 // March 3 – May 19
+
+  - type: text
+    color: yellow
+    align: center
+    heading: This class is also offered privately and as an intensive course
+    buttons:
+      - { label: Private classes, url: "https://legados.ca/ele-adultes-cours-prives/", style: outline }
+      - { label: Intensive classes, url: "https://legados.ca/ele-adultes-cours-intensifs/", style: outline }
+
+  - type: text
+    image: /images/2025/10/cours-espagnol-montreal-prof-et-eleves.jpg
+    image_side: left
+    heading: The placement test
+    body: |
+      This class has several levels, so you need to take a placement test — unless you are a complete beginner (in which case you start at A1.1).
+
+      The levels:
+
+      - **A** = beginner (with sub-levels A1.1, A1.2, A2.1, etc.)
+      - **B** = intermediate (with sub-levels)
+      - **C** = advanced (with sub-levels)
+
+      At Legados, classes range from A1 to C1.
+    buttons:
+      - { label: I want to take a placement test, url: "https://legados.ca/test-de-classement/" }
+
+  - type: cards
+    color: grey
+    heading: What you will learn
+    cards:
+      - title: Everyday Spanish
+        text: |
+          Classes focus on real-life use of the language, including:
+
+          - grammar and vocabulary applied to concrete situations
+          - reading and listening comprehension
+          - reading, writing and active listening
+      - title: Conversation, pronunciation and culture
+        text: |
+          Special attention is paid to speaking:
+
+          - better pronunciation and fluency
+          - more confidence when speaking
+          - exploring cultural and social questions of the Spanish-speaking world
+      - title: Intercultural skills
+        text: |
+          You will develop:
+
+          - a better understanding of cultural diversity
+          - the ability to interact sensitively in a variety of Hispanic contexts
+
+  - type: text
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: About the classes
+    body: |
+      ### Teaching material and resources
+      - Specialized teaching material designed for full immersion.
+      - Access to our [library of Spanish books](page:bibliotheque).
+      - Cultural workshops built into our [Cultural experience](page:culture) program.
+
+      ### Teaching staff
+      Classes are taught by highly qualified teachers who specialize in teaching Spanish as a foreign language.
+
+      ### Textbooks
+      Beginner levels (A1-A2) use the [Experiencias modular](https://lasamericas.ca/fr/produits/29904/experiencias-modular-a1-libro-1) books. Intermediate level B1 uses [En Plural](https://lasamericas.ca/fr/produits/39668/en-plural-b1-libro-alumno).
+
+  - type: people
+    heading: Teacher
+    people:
+      - name: Meli Marín
+        photo: /images/2026/04/Meli-Marin_profe-ELE-adultos-y-Bibliotecaria-926x1024.webp
+        bio: |
+          “My name is Melina Marín and I live in Córdoba, Argentina. For more than 20 years I have taught English and Spanish, with the joy of guiding people every day as they discover a new language. What ties me to Legados is the pleasure of passing things on, and the wish to open, through Spanish, a window on our language and culture.”
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-etrangere/cours-regulier/" }

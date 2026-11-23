@@ -1,0 +1,17 @@
+key: contact
+slug: contact
+title: Contact
+description: Legados, 5804, boul. Saint-Laurent (coin Bernard), Montréal. 514 867 9363, info@legados.ca.
+sections:
+  - type: page_title
+    title: Contact
+
+  - type: map
+    body: |
+      **Legados**
+      5804, boul. Saint-Laurent (coin Bernard)
+      Montréal QC  H2T 1T3
+
+      [info@legados.ca](mailto:info@legados.ca)
+      [514 867 9363](tel:+15148679363)
+    embed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.1419016848563!2d-73.60508162339077!3d45.52734992922254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91bdd2b89187f%3A0xb5f1deba7a916e04!2sLegados!5e0!3m2!1sfr!2sca!4v1770759740005!5m2!1sfr!2sca"

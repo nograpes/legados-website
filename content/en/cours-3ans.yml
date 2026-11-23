@@ -1,0 +1,91 @@
+key: cours-3ans
+slug: spanish-classes/3-years
+title: Spanish on a tricycle (3 years)
+description: Heritage-language Spanish class for 3-year-olds from Spanish-speaking families, Saturday mornings in Montreal’s Mile-End.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a heritage language
+    title: Spanish on a tricycle (3 years)
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/3ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      This heritage-language Spanish class is for 3-year-olds from Spanish-speaking families.
+
+      Children discover the language through picture reading, play, movement and creativity. A joyful, heartfelt first immersion in the language and in Hispanic-American culture.
+
+      The ideal way to discover Spanish through creative and interactive activities.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Children aged 3\n> From a Spanish-speaking family"
+      - "> Group class\n> Max. 12 participants"
+      - "> Saturday\n> 9:30 – 10:30 a.m.\n> $275"
+
+  - type: text
+    image: /images/2026/05/tricycle-jeunes-avec-professeure.webp
+    image_side: left
+    body: |
+      The Tricycle class is structured around the development of 3-year-olds.
+
+      It is built around three key moments:
+
+      - a welcome song (repeated with gestures),
+      - a reading activity (short texts and picture reading),
+      - sensory exploration and hands-on play with objects (giant pictures, puppets — like Quirquincho — and everyday objects).
+
+  - type: cards
+    color: yellow
+    heading: Goals
+    cards:
+      - title: Understanding and speaking Spanish
+        text: Children discover how lively Spanish is — not only at home, but in the world around them. We help them bring the language into their daily lives by playing, talking and singing.
+      - title: Personal and cultural growth
+        text: "Tricycle invites children to explore their immediate world and lay the foundations of their identity: the “I”."
+      - title: Artistic and language skills
+        text: By singing, moving and creating, children develop their imagination and their ease in expressing themselves. Language becomes a playground, a creative tool and a way to affirm who they are.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: A lively, well-rounded teaching approach
+    body: |
+      ### Themes that speak to children
+      Through stories, songs, pictures and video clips, children explore concrete, current themes such as the environment, family and community. They build their vocabulary while developing their understanding of the Spanish-speaking world.
+
+      ### Learning through play, creating while learning
+      Besides reading and conversation, children move, draw, sing, play physical games and do pre-writing activities. Everything is designed to make learning active, stimulating and joyful.
+
+      ### A space to express and affirm themselves
+      This class offers a safe cocoon to nurture their imagination, build their confidence and discover the richness of Latin American culture. Children grow closer to their roots and learn to express themselves authentically — in Spanish, and with pride.
+
+  - type: people
+    heading: Teacher
+    people:
+      - name: Sofia Urrutia
+        photo: /images/2026/03/Sofia-Urrutia-prof-espagnol-1024x866.jpeg
+        bio: |
+          “I’m Chilean, an educator by profession and by calling. Over my personal and professional journey, I became interested in intercultural education and in teaching and learning Spanish. I’m the mom of a little Chilean-Canadian multilingual boy.”
+
+  - type: cards
+    color: yellow
+    heading: Schedule
+    body: Saturdays, 9:30 to 10:30 a.m. – 13 weeks
+    cards:
+      - { title: Fall 2026, text: "September 12 to December 5\nNo class: October 10" }
+      - { title: Winter 2027, text: "January 9 to March 20\nNo class: March 6" }
+      - { title: Spring 2027, text: "April 3 to June 5" }
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/3ans/" }

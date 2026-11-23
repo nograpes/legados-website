@@ -1,0 +1,49 @@
+key: histoire
+slug: a-propos/histoire
+title: Notre histoire
+description: L’histoire de Legados, né en 2015 à Tiohtià:ke–Montréal du désir de garder vivantes la langue espagnole et les cultures latino-américaines.
+sections:
+  - type: page_title
+    eyebrow: Notre histoire
+    title: Faire vivre l’héritage latino-américain
+    align: center
+
+  - type: text
+    color: yellow
+    align: center
+    body: |
+      ### Legados est né d’une expérience intime : celle de l’immigration, et de la place essentielle que prennent les langues dans une nouvelle vie.
+
+  - type: text
+    columns: 2
+    body: |
+      Un jour, comme beaucoup d’autres personnes immigrantes, nous nous sommes arrêtés devant l’intensité — parfois dévorante — de notre propre parcours. Ce déracinement, ce recommencement, ce mélange de pertes et de découvertes… tout cela nous a confrontés à un besoin profond : retrouver nos voix, embrasser nos mémoires, raconter nos histoires, laisser nos langues sortir des tiroirs pour revivre dans nos conversations.
+
+      Nos trajectoires venaient d’ailleurs. D’un autre temps, d’autres paysages, d’autres voix. Nous portions en nous d’autres saveurs, d’autres jeux, d’autres récits — et une autre langue. Comme beaucoup d’immigrants, nous ressentions le besoin d’un espace où ces héritages pourraient exister librement, d’un lieu où ils ne seraient pas seulement tolérés, mais pleinement vivants.
+
+      C’est cette étincelle qui a donné naissance à Legados, ici, à Tiohtià:ke–Montréal.
+
+  - type: gallery
+    columns: 1
+    images:
+      - { src: /images/2025/12/Legados_cours-espagnol-etudiants-11-1024x669.png, alt: Un cours d’espagnol à Legados }
+
+  - type: text
+    columns: 2
+    body: |
+      En 2015, cette réflexion s’est transformée en projet : créer un institut éducatif et culturel où la langue espagnole serait bien plus qu’un outil… mais une porte vers l’identité, la créativité et le monde.
+
+      Legados est devenu un acte de transmission. Une manière de garder la langue vivante. Une proclamation douce et puissante : notre héritage mérite d’avoir une voix.
+
+      Aujourd’hui, Legados est un espace éducatif et humain où l’apprentissage de l’espagnol se tisse avec la culture, la littérature et les arts latino-américains. Nous croyons profondément que la langue est une clé : elle ouvre sur la mémoire, la pensée, les émotions et l’avenir.
+
+      Ici, apprendre l’espagnol, c’est se relier. À ses racines. À son histoire. Aux autres. C’est déployer son potentiel en honorant ce que l’on est.
+
+      Notre mission est à la fois simple et immense : préserver, célébrer et faire vivre notre héritage.
+
+  - type: quote
+    color: grey
+    image: /images/2025/12/Mariana-legados-226x300.webp
+    text: Bienvenue à Legados.
+    author: Mariana Marín
+    role: Fondatrice et directrice de Legados

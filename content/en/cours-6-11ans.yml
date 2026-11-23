@@ -1,0 +1,103 @@
+key: cours-6-11ans
+slug: spanish-classes/6-11-years
+title: Spanish on a bicycle (6-11 years)
+description: Three-level heritage-language Spanish program for children aged 6 to 11, built on Latin American literature. Saturdays in Montreal.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a heritage language
+    title: Spanish on a bicycle (6-11 years)
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/6-11-ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      The Bicycle program has 3 levels: beginner, intermediate and advanced. The whole program is built on Latin American literature, the common thread of language learning.
+
+      Children develop their language and their artistic sense while exploring their creativity and imagination.
+
+      At levels 1 and 2, singing and music accompany the activities and support the learning of vocabulary and basic structures.
+
+      At level 3, other art forms are introduced, such as theatre and podcasting.
+
+      Altogether, language learning becomes an experience that is both joyful and deeply cultural.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Children aged 6-11\n> From a Spanish-speaking family"
+      - "> Group class\n> Max. 12 participants"
+      - "> Saturday\n> 9:30 – 11:30 a.m.\n> $325"
+
+  - type: text
+    image: /images/2026/05/Bicicleta-enfants-dans-cours-espagnol.webp
+    image_side: left
+    body: |
+      Bicycle is not just a Spanish class: it is a space where children learn to think, create and express themselves in Spanish, while deepening their ties with their culture of origin.
+
+      Bicycle’s mission is to nourish the language, the mind… and the heart.
+
+  - type: cards
+    color: yellow
+    heading: Goals
+    cards:
+      - title: Strengthen the bond with the language and culture
+        text: Children work with authentic material, carefully chosen to reflect their realities, interests and needs as Spanish-speaking children living in Quebec. They build a personal, lively and emotional relationship with the language.
+      - title: Foster intercultural awareness
+        text: "Through themes tied to Latin-Canadian life, children explore their multiple identities. Spanish becomes more than a means of communication: it is a bridge between their roots and the world around them. We value who they are, here and now."
+      - title: Learn through art and experience
+        text: "With our integrated arts approach (music, theatre, visual arts, literature), language learning comes alive in concrete, creative projects. It is learning you feel and live: a true cultural and sensory immersion."
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: 3 levels to grow in Spanish
+    body: |
+      Bicycle is more a program than a class, since it has 3 levels. Through texts from rich Latin American literature, conversation and creative projects, children develop their language skills while deepening their connection with Hispanic culture.
+
+      ### Bicycle 1 – beginner
+      Through readings, songs and games, children develop their ability to describe, tell stories and interact in Spanish. Writing emerges gradually, supported by music, class discussion and the discovery of different cultures of the Spanish-speaking world. Building vocabulary is a pillar of this first level. The readings are chosen for the children’s age and cover a wide variety of themes, renewed every week to keep curiosity and the joy of learning alive.
+
+      ### Bicycle 2 – intermediate
+      This level consolidates the basics: vocabulary, grammar, comprehension, and spoken and written expression. Learners progress toward more structured narrative and argumentative forms. Each session is built around a central theme (nature, friendship, migration, etc.), explored through longer literary texts and discussions that broaden linguistic and cultural horizons.
+
+      ### Bicycle 3 – advanced
+      Time to create. This level is for children who are already comfortable in Spanish and want to develop a more nuanced, personal voice. Learning happens through an art form; this year, podcasting supports the language work. Legados already has its own podcast, *Montaña Rusa*, and Bicicleta 3 students contribute to the show, which airs on Spotify.
+
+      Audio production is a concrete way to practise writing, expressive reading and oral communication. The class explores different genres of writing (creative, journalistic, argumentative), connected to Latin-Canadian life.
+
+  - type: people
+    heading: Teachers
+    people:
+      - name: Mariana Marín
+        role: Teacher, Bicycle 1 and 2
+        photo: /images/2026/03/Mariana-legados-edited.webp
+        bio: |
+          “I am currently writing my master’s thesis in Hispanic studies at the Université de Montréal. My research looks at how the Legados heritage-language Spanish program was designed. I have a degree in social communication and a master’s in social anthropology. I’m also the mother of three children growing up between several languages. I’m Argentinian, Latin-Canadian and the founder of Legados.
+
+          As an immigrant living in Canada, I have always cared about being able to live between languages. As Sylvia Molloy wrote, the idea is not for one language to replace the other, but for them to add up.”
+      - name: Camila Saland
+        role: Teacher, Bicycle 3
+        photo: /images/2026/04/Camila-Saland-prof-espagnol-edited-2.jpeg
+        bio: |
+          “I earned my bachelor’s degree in linguistics at McGill University. I grew up in New York and I’m trilingual: I speak Spanish, English and French. I’m interested in the sociolinguistic reality of Spanish speakers in a heritage-language context, and in creating learning tools. In my free time, I enjoy cycling, film photography and reading.”
+
+  - type: cards
+    color: yellow
+    heading: Schedule
+    body: Saturdays, 9:30 to 11:30 a.m. – 13 weeks
+    cards:
+      - { title: Fall 2026, text: "September 12 to December 5\nNo class: October 10" }
+      - { title: Winter 2027, text: "January 9 to March 20\nNo class: March 6" }
+      - { title: Spring 2027, text: "April 3 to June 5" }
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/6-11-ans/" }

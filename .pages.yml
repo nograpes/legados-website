@@ -1,0 +1,259 @@
+# Pages CMS configuration: editing screens at app.pagescms.org
+media:
+  input: static/images
+  output: /images
+  extensions: [jpg, jpeg, png, webp, svg]
+
+content:
+  - name: pages_fr
+    label: "Pages (français)"
+    type: collection
+    path: content/fr
+    format: yaml
+    view:
+      primary: title
+      fields: [title, slug]
+    fields:
+      - { name: key, label: "Code de la page (identique en FR et EN) / Page code", type: string, required: true }
+      - { name: slug, label: "Adresse (ex. bibliotheque) / Address", type: string }
+      - { name: title, label: Titre de l’onglet / Browser title, type: string, required: true }
+      - { name: description, label: Description pour Google / Search description, type: text }
+      - { name: published, label: Publiée / Published, type: boolean, default: true }
+      - name: sections
+        label: Sections
+        type: object
+        list: true
+        fields:
+          - name: type
+            label: Type de section / Section type
+            type: select
+            options:
+              values:
+              - { name: text, label: "Texte / Text" }
+              - { name: page_title, label: "Titre de page / Page title" }
+              - { name: hero_home, label: "Bandeau d’accueil / Home banner" }
+              - { name: banner, label: "Bannière image / Image banner" }
+              - { name: facts, label: "Infos clés / Key facts" }
+              - { name: gallery, label: "Photos" }
+              - { name: cards, label: "Cartes / Cards" }
+              - { name: people, label: "Personnes / People" }
+              - { name: quote, label: "Citation / Quote" }
+              - { name: video, label: "Vidéo YouTube" }
+              - { name: band, label: "Grande photo avec titre / Big photo with title" }
+              - { name: map, label: "Carte / Map" }
+          - name: color
+            label: Couleur de fond / Background colour
+            type: select
+            options:
+              values:
+              - { name: white, label: "white" }
+              - { name: grey, label: "grey" }
+              - { name: yellow, label: "yellow" }
+              - { name: orange, label: "orange" }
+              - { name: red, label: "red" }
+              - { name: blue, label: "blue" }
+              - { name: green, label: "green" }
+              - { name: pink, label: "pink" }
+              - { name: cream, label: "cream" }
+              - { name: slate, label: "slate" }
+          - { name: id, label: "Ancre (pour les liens page:xxx#ancre) / Anchor", type: string }
+          - { name: align, label: "Alignement (center) / Alignment", type: string }
+          - { name: eyebrow, label: Petit titre / Small label, type: string }
+          - { name: title, label: Titre / Title, type: string }
+          - { name: subtitle, label: Sous-titre / Subtitle, type: string }
+          - { name: heading, label: Titre de section / Heading, type: string }
+          - { name: subheading, label: Chapeau / Lead line, type: string }
+          - { name: body, label: Texte / Text, type: text }
+          - { name: columns, label: Colonnes / Columns, type: number }
+          - { name: box, label: "Encadré coloré (orange, yellow, white, blue) / Coloured box", type: string }
+          - { name: image, label: Image, type: image }
+          - { name: alt, label: Description de l’image / Image description, type: string }
+          - name: image_side
+            label: Côté de l’image / Image side
+            type: select
+            options: { values: [left, right] }
+          - name: image_shape
+            label: Forme de l’image / Image shape
+            type: select
+            options: { values: [rounded, blob, round, plain] }
+          - { name: youtube, label: "Code de la vidéo YouTube (ex. aKgO1s7yjpA)", type: string }
+          - { name: embed, label: "Adresse d’intégration Google Maps / Map embed URL", type: string }
+          - { name: text, label: Texte de la citation / Quote text, type: text }
+          - { name: author, label: Auteur·e / Author, type: string }
+          - { name: role, label: Rôle / Role, type: string }
+          - { name: items, label: Infos clés / Key facts, type: text, list: true }
+          - name: lines
+            label: Lignes du bandeau / Banner lines
+            type: object
+            list: true
+            fields:
+              - { name: text, type: string }
+              - { name: color, type: string }
+              - { name: small, type: boolean }
+          - name: images
+            label: Photos
+            type: object
+            list: true
+            fields:
+              - { name: src, label: Image, type: image }
+              - { name: alt, label: Description, type: string }
+          - name: buttons
+            label: Boutons / Buttons
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Texte / Label, type: string }
+              - { name: url, label: "Lien (page:cours, ou https://…) / Link", type: string }
+              - name: style
+                label: Style
+                type: select
+                options: { values: [outline, white] }
+          - name: cards
+            label: Cartes / Cards
+            type: object
+            list: true
+            fields:
+              - { name: title, label: Titre / Title, type: string }
+              - { name: text, label: Texte / Text, type: text }
+              - { name: image, label: Image, type: image }
+              - name: button
+                label: Bouton / Button
+                type: object
+                fields:
+                  - { name: label, type: string }
+                  - { name: url, type: string }
+          - name: people
+            label: Personnes / People
+            type: object
+            list: true
+            fields:
+              - { name: name, label: Nom / Name, type: string }
+              - { name: role, label: Rôle / Role, type: string }
+              - { name: photo, label: Photo, type: image }
+              - { name: bio, label: Bio, type: text }
+  - name: pages_en
+    label: "Pages (English)"
+    type: collection
+    path: content/en
+    format: yaml
+    view:
+      primary: title
+      fields: [title, slug]
+    fields:
+      - { name: key, label: "Code de la page (identique en FR et EN) / Page code", type: string, required: true }
+      - { name: slug, label: "Adresse (ex. bibliotheque) / Address", type: string }
+      - { name: title, label: Titre de l’onglet / Browser title, type: string, required: true }
+      - { name: description, label: Description pour Google / Search description, type: text }
+      - { name: published, label: Publiée / Published, type: boolean, default: true }
+      - name: sections
+        label: Sections
+        type: object
+        list: true
+        fields:
+          - name: type
+            label: Type de section / Section type
+            type: select
+            options:
+              values:
+              - { name: text, label: "Texte / Text" }
+              - { name: page_title, label: "Titre de page / Page title" }
+              - { name: hero_home, label: "Bandeau d’accueil / Home banner" }
+              - { name: banner, label: "Bannière image / Image banner" }
+              - { name: facts, label: "Infos clés / Key facts" }
+              - { name: gallery, label: "Photos" }
+              - { name: cards, label: "Cartes / Cards" }
+              - { name: people, label: "Personnes / People" }
+              - { name: quote, label: "Citation / Quote" }
+              - { name: video, label: "Vidéo YouTube" }
+              - { name: band, label: "Grande photo avec titre / Big photo with title" }
+              - { name: map, label: "Carte / Map" }
+          - name: color
+            label: Couleur de fond / Background colour
+            type: select
+            options:
+              values:
+              - { name: white, label: "white" }
+              - { name: grey, label: "grey" }
+              - { name: yellow, label: "yellow" }
+              - { name: orange, label: "orange" }
+              - { name: red, label: "red" }
+              - { name: blue, label: "blue" }
+              - { name: green, label: "green" }
+              - { name: pink, label: "pink" }
+              - { name: cream, label: "cream" }
+              - { name: slate, label: "slate" }
+          - { name: id, label: "Ancre (pour les liens page:xxx#ancre) / Anchor", type: string }
+          - { name: align, label: "Alignement (center) / Alignment", type: string }
+          - { name: eyebrow, label: Petit titre / Small label, type: string }
+          - { name: title, label: Titre / Title, type: string }
+          - { name: subtitle, label: Sous-titre / Subtitle, type: string }
+          - { name: heading, label: Titre de section / Heading, type: string }
+          - { name: subheading, label: Chapeau / Lead line, type: string }
+          - { name: body, label: Texte / Text, type: text }
+          - { name: columns, label: Colonnes / Columns, type: number }
+          - { name: box, label: "Encadré coloré (orange, yellow, white, blue) / Coloured box", type: string }
+          - { name: image, label: Image, type: image }
+          - { name: alt, label: Description de l’image / Image description, type: string }
+          - name: image_side
+            label: Côté de l’image / Image side
+            type: select
+            options: { values: [left, right] }
+          - name: image_shape
+            label: Forme de l’image / Image shape
+            type: select
+            options: { values: [rounded, blob, round, plain] }
+          - { name: youtube, label: "Code de la vidéo YouTube (ex. aKgO1s7yjpA)", type: string }
+          - { name: embed, label: "Adresse d’intégration Google Maps / Map embed URL", type: string }
+          - { name: text, label: Texte de la citation / Quote text, type: text }
+          - { name: author, label: Auteur·e / Author, type: string }
+          - { name: role, label: Rôle / Role, type: string }
+          - { name: items, label: Infos clés / Key facts, type: text, list: true }
+          - name: lines
+            label: Lignes du bandeau / Banner lines
+            type: object
+            list: true
+            fields:
+              - { name: text, type: string }
+              - { name: color, type: string }
+              - { name: small, type: boolean }
+          - name: images
+            label: Photos
+            type: object
+            list: true
+            fields:
+              - { name: src, label: Image, type: image }
+              - { name: alt, label: Description, type: string }
+          - name: buttons
+            label: Boutons / Buttons
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Texte / Label, type: string }
+              - { name: url, label: "Lien (page:cours, ou https://…) / Link", type: string }
+              - name: style
+                label: Style
+                type: select
+                options: { values: [outline, white] }
+          - name: cards
+            label: Cartes / Cards
+            type: object
+            list: true
+            fields:
+              - { name: title, label: Titre / Title, type: string }
+              - { name: text, label: Texte / Text, type: text }
+              - { name: image, label: Image, type: image }
+              - name: button
+                label: Bouton / Button
+                type: object
+                fields:
+                  - { name: label, type: string }
+                  - { name: url, type: string }
+          - name: people
+            label: Personnes / People
+            type: object
+            list: true
+            fields:
+              - { name: name, label: Nom / Name, type: string }
+              - { name: role, label: Rôle / Role, type: string }
+              - { name: photo, label: Photo, type: image }
+              - { name: bio, label: Bio, type: text }

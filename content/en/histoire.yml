@@ -1,0 +1,49 @@
+key: histoire
+slug: about/our-story
+title: Our story
+description: The story of Legados, founded in Tiohtià:ke–Montreal out of the wish to keep the Spanish language and Latin American cultures alive.
+sections:
+  - type: page_title
+    eyebrow: Our story
+    title: Keeping Latin American heritage alive
+    align: center
+
+  - type: text
+    color: yellow
+    align: center
+    body: |
+      ### Legados was born of a personal experience: immigration, and the essential place languages take in a new life.
+
+  - type: text
+    columns: 2
+    body: |
+      One day, like many other immigrants, we stopped to face the intensity — sometimes overwhelming — of our own journey. The uprooting, the starting over, the mix of loss and discovery… all of it confronted us with a deep need: to find our voices again, embrace our memories, tell our stories, and take our languages out of the drawer so they could live again in our conversations.
+
+      Our paths came from elsewhere. From another time, other landscapes, other voices. We carried other flavours, other games, other stories — and another language. Like many immigrants, we felt the need for a space where these heritages could exist freely, a place where they would not just be tolerated, but fully alive.
+
+      That spark gave birth to Legados, here in Tiohtià:ke–Montreal.
+
+  - type: gallery
+    columns: 1
+    images:
+      - { src: /images/2025/12/Legados_cours-espagnol-etudiants-11-1024x669.png, alt: A Spanish class at Legados }
+
+  - type: text
+    columns: 2
+    body: |
+      In 2015, this reflection became a project: to create an educational and cultural institute where the Spanish language would be much more than a tool… a door to identity, creativity and the world.
+
+      Legados became an act of transmission. A way to keep the language alive. A gentle and powerful statement: our heritage deserves a voice.
+
+      Today, Legados is an educational and human space where learning Spanish is woven together with Latin American culture, literature and arts. We deeply believe language is a key: it opens onto memory, thought, emotion and the future.
+
+      Here, learning Spanish means connecting. To your roots. To your history. To others. It means reaching your potential while honouring who you are.
+
+      Our mission is both simple and immense: to preserve, celebrate and keep our heritage alive.
+
+  - type: quote
+    color: grey
+    image: /images/2025/12/Mariana-legados-226x300.webp
+    text: Welcome to Legados.
+    author: Mariana Marín
+    role: Founder and director of Legados

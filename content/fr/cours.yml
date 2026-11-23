@@ -1,0 +1,60 @@
+key: cours
+slug: cours-d-espagnol-montreal
+title: Cours d’espagnol à Montréal
+description: Cours d’espagnol langue maternelle et langue étrangère pour enfants, adolescents et adultes, dans le Mile-End à Montréal.
+sections:
+  - type: page_title
+    title: Les cours d’espagnol à Montréal de Legados
+
+  - type: text
+    color: blue
+    box: orange
+    body: |
+      Legados propose 2 programmes de cours d’espagnol :
+
+      - [Espagnol langue maternelle](#elm)
+      - [Espagnol langue étrangère](#ele)
+
+      Le programme **Espagnol langue maternelle** vise les familles hispanophones.
+
+      Vous parlez espagnol à la maison et vous souhaitez que vos enfants développent leur vocabulaire et approfondissent leur connaissance de la langue? Ce programme est pour vous.
+
+      Vous venez d’un milieu non hispanophone et vous souhaitez vous mettre à l’espagnol? Vous trouverez votre bonheur avec notre programme **Espagnol langue étrangère**.
+
+      Tous nos cours sont donnés par des professeures d’expérience, diplômées, qui ont l’espagnol comme langue maternelle.
+
+      Legados suit un programme pédagogique rigoureux. Notre directrice, Mariana Marín, a une maîtrise en anthropologie et termine une maîtrise en didactique des langues (spécialisation en espagnol) à l’Université de Montréal.
+
+      Legados marie le plaisir à la rigueur.
+
+  - type: text
+    id: elm
+    color: yellow
+    image: /images/2025/10/enfants-jouant-espagnol-scaled.jpg
+    image_side: left
+    image_shape: blob
+    heading: Espagnol langue maternelle
+    buttons:
+      - { label: Espagnol aux couches > 8 mois – 2 ans, url: "page:cours-8mois-2ans", style: outline }
+      - { label: Espagnol en tricycle > 3 ans, url: "page:cours-3ans", style: outline }
+      - { label: Espagnol en trottinette > 4-5 ans, url: "page:cours-4-5ans", style: outline }
+      - { label: Espagnol en bicyclette > 6-11 ans, url: "page:cours-6-11ans", style: outline }
+      - { label: Passage > 12-17 ans, url: "page:cours-12-17ans", style: outline }
+
+  - type: text
+    id: ele
+    color: grey
+    image: /images/2025/10/cours-espagnol-montreal-prof-et-eleves-1-1024x437.jpg
+    image_side: left
+    image_shape: blob
+    heading: Espagnol langue étrangère
+    buttons:
+      - { label: Enfants, url: "page:ele-enfants", style: outline }
+      - { label: Adultes, url: "page:ele-adultes", style: outline }
+
+  - type: text
+    color: white
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**

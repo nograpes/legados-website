@@ -1,0 +1,74 @@
+# Site-wide settings: menu, footer, contact details.
+common:
+  site_url: https://legados.ca
+  logo: /images/2025/09/cropped-legados_logo_solo_1_rgb-1-266x50.png
+  mascot: /images/2025/09/cropped-mstile-310x310-1-300x300.png
+  favicon: /images/2025/09/cropped-mstile-310x310-1-300x300.png
+  share_image: /images/2026/04/personnes-en-train-de-danser-lite-1024x682.webp
+  year: 2026
+  address_line1: 5804, boul. Saint-Laurent
+  phone: 514 867 9363
+  phone_link: "+15148679363"
+  email: info@legados.ca
+  map_link: https://maps.app.goo.gl/tLpNdYBydqZz52DC9
+  reviews_link: https://www.google.com/search?q=Legados+Avis
+  # Mailchimp sign-up address (the "action" of Mailchimp's embedded form,
+  # https://….list-manage.com/subscribe/post?u=…&id=…). Empty = the form is hidden.
+  newsletter_action: ""
+  newsletter_honeypot: ""
+
+fr:
+  tagline: Institut latino-américain de transmission de la langue et la culture
+  contact_label: Contact
+  other_language: English
+  skip_link: Aller au contenu
+  menu_label: Menu
+  menu:
+    - { label: Cours d’espagnol, page: cours }
+    - { label: Culture, page: culture }
+    - { label: Camp de jour, page: camp }
+    - { label: Bibliothèque, page: bibliotheque }
+    - label: À propos
+      children:
+        - { label: Qui sommes-nous, page: qui-sommes-nous }
+        - { label: Notre histoire, page: histoire }
+        - { label: Notre équipe, page: equipe }
+    - { label: Faire un don, page: don }
+  address_line2: (coin Bernard)
+  address_line3: Montréal  H2T 1T3
+  newsletter_title: Inscription à l’infolettre
+  newsletter_first_name: Votre prénom
+  newsletter_email: Votre courriel
+  newsletter_button: Inscription
+  newsletter_soon: "Pour recevoir notre infolettre, écrivez-nous :"
+  reviews_text: 5 / 5, basé sur 16 avis Google
+  reviews_link_label: Voir tous les avis
+  donate_label: Faire un don
+
+en:
+  tagline: Latin American institute for passing on language and culture
+  contact_label: Contact
+  other_language: Français
+  skip_link: Skip to content
+  menu_label: Menu
+  menu:
+    - { label: Spanish classes, page: cours }
+    - { label: Culture, page: culture }
+    - { label: Day camp, page: camp }
+    - { label: Library, page: bibliotheque }
+    - label: About
+      children:
+        - { label: Who we are, page: qui-sommes-nous }
+        - { label: Our story, page: histoire }
+        - { label: Our team, page: equipe }
+    - { label: Donate, page: don }
+  address_line2: (corner of Bernard)
+  address_line3: Montréal  H2T 1T3
+  newsletter_title: Newsletter sign-up
+  newsletter_first_name: Your first name
+  newsletter_email: Your email
+  newsletter_button: Sign up
+  newsletter_soon: "To get our newsletter, write to us:"
+  reviews_text: 5 / 5, based on 16 Google reviews
+  reviews_link_label: See all reviews
+  donate_label: Donate

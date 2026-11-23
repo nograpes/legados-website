@@ -1,0 +1,71 @@
+key: equipe
+slug: a-propos/equipe
+title: Équipe
+description: L’équipe de Legados — nos professeures d’espagnol et notre conseil d’administration.
+sections:
+  - type: page_title
+    title: L’équipe de Legados
+    align: center
+
+  - type: text
+    color: yellow
+    align: center
+    body: |
+      À Legados, rien ne se fait seul. Les idées naissent, grandissent et prennent vie grâce à une équipe passionnée qui pense, crée et construit ensemble.
+
+      Legados, c’est bien sûr l’enseignement de l’espagnol, mais aussi les activités, la musique, le chant, le dessin, la cuisine et mille autres façons de faire vivre la langue et la culture.
+
+      Chaque personne apporte sa voix, son énergie et son talent pour faire de Legados un lieu vivant, créatif et profondément humain.
+
+  - type: people
+    heading: Nos professeures d’espagnol
+    people:
+      - name: Camila Saland
+        photo: /images/2026/04/Camila_Saland_profe_de_Bicicleta_3_2.webp
+        bio: «Salut, moi c’est Camila! Je viens d’Argentine et des États-Unis et je parle l’espagnol rioplatense. Je donne le cours d’espagnol langue maternelle Bicicleta 1-2 et j’adore partager la langue et la culture. Legados est un lieu très spécial pour moi, surtout pour sa belle bibliothèque en espagnol. Dans mes temps libres, j’aime la photo, le vélo, la lecture et le crochet.»
+      - name: Melina Marín
+        photo: /images/2026/04/Meli-Marin_profe-ELE-adultos-y-Bibliotecaria-926x1024.webp
+        bio: «Je m’appelle Melina Marín et je vis à Córdoba, en Argentine. Depuis plus de 20 ans, j’enseigne l’anglais et l’espagnol, avec le bonheur d’accompagner chaque jour la découverte d’une nouvelle langue. Ce qui me lie à Legados, c’est le plaisir de transmettre et l’envie d’ouvrir, à travers l’espagnol, une fenêtre sur notre langue et notre culture.»
+      - name: Rosario Rivero
+        photo: /images/2026/03/Rosario-Rivero-prof-espagnol-238x300.jpg
+        bio: «Je suis née à La Havane, là où la langue danse autant que la musique. Diplômée en langue et littérature françaises de l’Université de La Havane, spécialisée en linguistique, j’enseigne depuis plus de dix ans au primaire et au secondaire. Enseigner ma langue maternelle, c’est faire vibrer les mots. Curieuse, passionnée, toujours en mouvement.»
+      - name: Sofia Urrutia
+        photo: /images/2026/03/Sofia-Urrutia-prof-espagnol-300x254.jpeg
+        bio: «Je suis chilienne, éducatrice de profession et par vocation. Au cours de mon parcours personnel et professionnel, je me suis intéressée à l’éducation interculturelle et à l’enseignement et l’apprentissage de l’espagnol. Je suis maman d’un petit multilingue chilien-canadien. Je suis heureuse d’accompagner le groupe de PAÑALES parents-enfants dans la découverte émerveillée de l’espagnol.»
+      - name: Roxana Bertola
+        photo: /images/2026/11/Roxana-legados-238x300.jpg
+        bio: «¡Hola! Moi, c’est Roxana! Je suis originaire de Mar del Plata, en Argentine. J’ai étudié la philosophie et je suis professeure d’espagnol langue étrangère. Ce qui me touche particulièrement, c’est de savoir que chaque personne qui apprend l’espagnol à Legados repart avec un petit morceau d’Amérique latine. Pour moi, Legados est un lieu de rencontres et de partage où nous transmettons aussi une partie de ce que nous sommes.»
+      - name: Mariana Marín
+        photo: /images/2026/04/Mariana-prof-espagnol-300x296.webp
+        bio: «Bonjour ! Immigrante argentine et latino-canadienne, je suis diplômée en communication sociale, titulaire d’une maîtrise en anthropologie sociale et actuellement étudiante à la maîtrise en études hispaniques à l’Université de Montréal. J’ai fondé Legados à Montréal en 2017 pour créer un espace dédié à la transmission de l’espagnol et des cultures latino-américaines.»
+      - name: Andrea Restrepo
+        bio: «Ici Andrea, artiste visuelle originaire de Colombie. Je travaille en illustration, aquarelle et céramique. À Legados, je mêle l’art à l’apprentissage de l’espagnol à travers des ateliers et des projets créatifs, pour faire vivre la langue et la culture latino-américaines.»
+
+  - type: people
+    color: grey
+    heading: Le conseil d’administration
+    people:
+      - name: Tatiana Gómez
+        role: Présidente
+        photo: /images/2026/11/Headshot-2.jpg
+        bio: Tatiana Gomez est avocate en droit de l’immigration et des réfugiés. Elle possède une vaste expérience de collaboration avec des mouvements sociaux et des organismes communautaires, et son parcours est profondément ancré dans les valeurs de justice sociale et de solidarité. Fille de parents issus de la classe ouvrière et ayant eux-mêmes immigré, elle est particulièrement sensible aux enjeux de transmission culturelle, de langue et d’appartenance. Sa fille fréquente Legados depuis ses tout débuts, ce qui témoigne également de son attachement personnel à la mission de l’organisme.
+      - name: Marielle Blanchard
+        role: Trésorière
+        photo: /images/2026/04/marielle-blanchard-CA-legados-300x287.webp
+        bio: Après une carrière en comptabilité, Marielle découvre Legados en s’inscrivant à un cours d’espagnol. Elle fait maintenant partie de l’équipe et contribue aux tâches comptables et administratives.
+      - name: Ana-Ines Ansaldo
+        role: Administratrice
+        photo: /images/2025/12/ana_CA-legados-300x300.jpg
+        bio: Chercheuse en neurosciences du langage et de la cognition et professeure à l’Université de Montréal, Ana-Ines voit en Legados un lieu précieux de transmission culturelle et linguistique, favorisant l’épanouissement et le respect de soi et des autres, à tout âge.
+      - name: Kristelle Hollidaz
+        role: Administratrice
+        photo: /images/2025/12/kristelle_CA-legados-1-300x300.jpg
+        bio: Installée à Sherbrooke depuis 12 ans après un parcours entre l’Europe, l’Afrique et l’Amérique du Nord, Kristelle est à l’origine du théâtre de paysage au Théâtre des Petites Lanternes, où elle crée des expériences artistiques en lien avec les lieux naturels. Elle a également fondé le festival Rivières de Lumières, qui célèbre en 2024 sa dixième édition.
+      - name: Mariana Marín
+        role: Administratrice
+        photo: /images/2026/04/Mariana-prof-espagnol-300x296.webp
+        bio: «Bonjour ! Immigrante argentine et latino-canadienne, je suis diplômée en communication sociale, titulaire d’une maîtrise en anthropologie sociale et actuellement étudiante à la maîtrise en études hispaniques à l’Université de Montréal. J’ai fondé Legados à Montréal en 2017 pour créer un espace dédié à la transmission de l’espagnol et des cultures latino-américaines.»
+      - name: Marie Christine Dorey
+        role: Administratrice
+        photo: /images/2026/11/marie-christine-dorey-1-300x269.jpg
+        bio: Médecin gynécologue-obstétricienne, Marie travaille actuellement à l’Université de Montréal en recherche en santé publique et en coopération internationale, dans le domaine de la santé sexuelle et reproductive. Ses deux filles, de père vénézuélien, grandissent entre le français et l’espagnol. Ils ont choisi Legados pour leur offrir un milieu hispanophone en dehors du cadre familial et ainsi contribuer à la transmission de leur héritage culturel et linguistique. Aujourd’hui, ils sont fiers de faire partie de la communauté Legados.

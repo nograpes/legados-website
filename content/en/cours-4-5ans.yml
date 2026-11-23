@@ -1,0 +1,101 @@
+key: cours-4-5ans
+slug: spanish-classes/4-5-years
+title: Spanish on a scooter (4-5 years)
+description: Heritage-language Spanish class for 4- and 5-year-olds from Spanish-speaking families, Saturdays in Montreal’s Mile-End.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a heritage language
+    title: Spanish on a scooter (4-5 years)
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/4-5ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      This heritage-language Spanish class is for children from Spanish-speaking families.
+
+      It broadens and develops the Spanish children bring from home, strengthening the varieties they already know, with a focus on building and enriching vocabulary.
+
+      Each class uses a reading of the day (Latin American tales, poems, fables and more) and a related song as teaching tools, with interactive activities that reinforce vocabulary and spoken Spanish.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Children aged 4-5\n> From a Spanish-speaking family"
+      - "> Group class\n> Max. 12 participants"
+      - "> Saturday\n> 9:30 – 11:30 a.m.\n> $325"
+
+  - type: gallery
+    columns: 1
+    images:
+      - { src: /images/2026/05/Monopatin-enfants-lisant-sur-un-canape.webp, alt: Children reading on a sofa }
+
+  - type: text
+    columns: 2
+    body: |
+      In Scooter, we widen the view: children explore the ideas of community, connection and belonging.
+
+      Classes focus on identity, family, emotions and Hispanic culture through readings, songs and themes carried through the whole session. Monopatín learners are introduced to intercultural skills: they learn to tell Spanish apart from other languages and to value it.
+
+      Through the journey of Quirquincho, the Legados mascot, children discover his migration story and follow his path to Legados.
+
+      The activities also support children’s overall development. They explore their senses, practise gross and fine motor skills, work on pre-writing, experiment with spatial and time organization, and develop their imagination.
+
+      Throughout the session, children work toward a final project that brings their learning together in an individual poster called *Mi mundo en español*, showcasing the reading and discoveries of the session.
+
+      The poster is shared with families at the end of each session during our “Celebration of learning” event.
+
+  - type: cards
+    color: yellow
+    heading: Goals
+    cards:
+      - title: Understanding and speaking Spanish
+        text: Children discover how lively Spanish is — not only at home, but in the world around them. We help them bring the language into their daily lives by playing, talking and singing.
+      - title: Personal and cultural growth
+        text: "Scooter invites children to explore their immediate world and lay the foundations of their identity: the “I”."
+      - title: Artistic and language skills
+        text: By singing, moving and creating, children develop their imagination and their ease in expressing themselves. Language becomes a playground, a creative tool and a way to affirm who they are.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: A lively, well-rounded teaching approach
+    body: |
+      ### Themes that speak to children
+      Through stories, songs, pictures and video clips, children explore concrete, current themes such as the environment, family and community. They build their vocabulary while developing their understanding of the Spanish-speaking world.
+
+      ### Learning through play, creating while learning
+      Besides reading and conversation, children move, draw, sing, play physical games and do pre-writing activities. Everything is designed to make learning active, stimulating and joyful.
+
+      ### A space to express and affirm themselves
+      This class offers a safe cocoon to nurture their imagination, build their confidence and discover the richness of Latin American culture. Children grow closer to their roots and learn to express themselves authentically — in Spanish, and with pride.
+
+  - type: people
+    heading: Teacher
+    people:
+      - name: Rosario Rivero
+        photo: /images/2026/03/Rosario-Rivero-prof-espagnol.jpg
+        bio: |
+          “I was born in Havana, where language dances as much as music does. I hold a degree in French language and literature from the University of Havana, specializing in linguistics, and I have taught elementary and high school for more than ten years.
+
+          Teaching my first language means making words come alive. I love children’s contagious energy, their bursts of laughter, their endless questions. In my class we talk, sing, play and discover. Every small step forward is a celebration. Outside class I keep the rhythm: I read, dance, walk in nature, breathe in the sea and enjoy the theatre. Curious, passionate, always on the move.”
+
+  - type: cards
+    color: yellow
+    heading: Schedule
+    body: Saturdays, 9:30 to 11:30 a.m. – 13 weeks
+    cards:
+      - { title: Fall 2026, text: "September 12 to December 5\nNo class: October 10" }
+      - { title: Winter 2027, text: "January 9 to March 20\nNo class: March 6" }
+      - { title: Spring 2027, text: "April 3 to June 5" }
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/4-5ans/" }

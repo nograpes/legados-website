@@ -1,0 +1,30 @@
+key: don
+slug: donate
+title: Donate
+description: Support Legados, a registered charity, and the development of a digital platform for teaching Spanish. You will receive a tax receipt.
+sections:
+  - type: page_title
+    title: Help Legados fulfil its mission
+    align: center
+    buttons:
+      - { label: Donate, url: "https://www.zeffy.com/en-CA/donation-form/donnez-pour-faire-rayonner-la-culture-latino-americaine" }
+
+  - type: text
+    color: yellow
+    image: /images/2025/12/Legados_cours-espagnol-etudiants-5-1.png
+    image_side: left
+    eyebrow: A digital teaching platform
+    heading: A teaching platform
+    subheading: Our ambition is to share the Spanish language and Hispanic culture in Montreal and beyond.
+    body: |
+      Your donations will support the development of a digital teaching platform.
+
+      The platform will include training tools, books and thematic workbooks.
+
+      The goal is to improve access to content and harmonize teaching practices, to better serve our learners — including beyond Montreal.
+
+      **You will receive a tax receipt.**
+
+      Legados is a registered charity, registration number 793483884.
+    buttons:
+      - { label: Yes, I want to donate! 😊, url: "https://www.zeffy.com/en-CA/donation-form/donnez-pour-faire-rayonner-la-culture-latino-americaine" }

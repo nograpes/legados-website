@@ -1,0 +1,95 @@
+key: cours-12-17ans
+slug: cours-d-espagnol-montreal/12-17ans
+title: Passage (12-17 ans)
+description: Passage, cours d’espagnol langue maternelle pour les jeunes de 12 à 17 ans de niveau intermédiaire, à Montréal.
+sections:
+  - type: page_title
+    eyebrow: Cours d’espagnol langue maternelle
+    title: Passage (12-17 ans)
+    align: center
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/12-17-ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Passage est un cours en personne, en groupe, pensé pour les jeunes de 12 à 17 ans ayant déjà un niveau intermédiaire en espagnol. C’est un espace où l’on renforce ses compétences linguistiques, bien sûr — mais surtout, où l’on grandit avec la langue.
+
+      Ici, les ados pratiquent l’expression orale et écrite, découvrent de nouveaux mots, affinent leur grammaire… tout en explorant des thèmes essentiels comme la citoyenneté, les droits humains et la diversité culturelle.
+
+      À travers des lectures, des discussions, des projets artistiques et des activités d’immersion dans leur communauté, les élèves tissent des liens entre leur langue, leur culture et le monde qui les entoure.
+
+      Passage, c’est bien plus qu’un cours : c’est une traversée personnelle, culturelle et citoyenne. Un chemin pour apprendre à s’exprimer, se situer… et se révéler. Un cours d’espagnol qui mène loin.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Jeunes 12-17 ans, niveau intermédiaire\n> Issus d’une famille hispanophone"
+      - "> Cours de groupe\n> Max 12 participants"
+      - "> 325 $"
+
+  - type: text
+    image: /images/2026/05/espanol-travesias-1.jpg
+    image_side: left
+    subheading: Un voyage en langue, en culture… et en soi.
+    body: |
+      Passage s’adresse aux adolescents ayant un niveau intermédiaire en espagnol et désireux d’approfondir leur maîtrise de la langue tout en explorant les grandes questions du monde d’aujourd’hui.
+
+      Ce cours annuel est structuré en modules thématiques, chacun abordant des sujets essentiels comme la citoyenneté, les droits humains et la diversité culturelle. L’objectif? Développer non seulement des compétences linguistiques solides, mais aussi une pensée critique, une conscience sociale et une fierté culturelle.
+
+  - type: text
+    color: yellow
+    heading: Les objectifs
+    subheading: Bien plus qu’un cours de langue
+    body: |
+      Dans ce cours, les jeunes développent leurs compétences en expression orale et écrite, tout en enrichissant leur vocabulaire et en consolidant les structures grammaticales. Mais toujours dans des contextes authentiques, engageants et significatifs.
+
+      Grâce à des échanges, des lectures, des projets artistiques et des discussions, les élèves :
+
+      - tissent des ponts entre leurs racines hispanophones et le monde qui les entoure
+      - parlent et écrivent en espagnol avec plus d’aisance et de précision
+      - utilisent la langue dans des situations concrètes, en lien avec leur réalité
+      - explorent leur environnement culturel avec un regard sensible et critique
+
+      Passage, c’est un espace pour approfondir la langue, comprendre le monde… et se découvrir soi-même en chemin.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Une approche pédagogique ancrée dans le réel
+    body: |
+      ### Projets d’immersion locale
+      Les élèves participent à des activités sociales, culturelles et artistiques dans leur communauté. Ce lien avec le terrain donne du sens aux apprentissages et rend la langue vivante.
+
+      ### Programme international Legados
+      À la fin du parcours, une possibilité d’échange dans un pays d’Amérique latine leur permet de plonger au cœur de leur héritage linguistique et culturel.
+
+      ### Grandir en espagnol
+      Passage propose bien plus qu’un cours d’espagnol : c’est une traversée identitaire et citoyenne, un espace pour grandir en espagnol… et dans le monde.
+
+  - type: people
+    heading: Professeure du cours
+    people:
+      - name: Camila Saland
+        photo: /images/2026/04/Camila-Saland-prof-espagnol-edited-2.jpeg
+        bio: |
+          « J’ai obtenu mon baccalauréat en linguistique à l’Université McGill. J’ai grandi à New York et je suis trilingue : je parle espagnol, anglais et français. Je m’intéresse à la réalité sociolinguistique des hispanophones dans un contexte de langue d’origine, ainsi qu’à la création d’outils d’apprentissage. Dans mes temps libres, j’aime faire du vélo, pratiquer la photographie analogique et lire. »
+
+  - type: cards
+    color: yellow
+    heading: Horaire
+    body: À confirmer
+    cards:
+      - { title: Automne, text: "11 septembre au 4 décembre\nCongé : 11 octobre" }
+      - { title: Hiver, text: "8 janvier au 19 mars\nCongé : 5 mars" }
+      - { title: Printemps, text: "2 avril au 4 juin\nCongé : 4 avril" }
+
+  - type: text
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End.
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/12-17-ans/" }

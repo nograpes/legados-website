@@ -1,0 +1,101 @@
+key: ele-enfants
+slug: cours-d-espagnol-montreal/ele-enfants
+title: Espagnol langue étrangère pour enfants
+description: Cours d’espagnol langue étrangère pour enfants de 7 à 12 ans, niveau débutant, le samedi midi dans le Mile-End à Montréal.
+sections:
+  - type: page_title
+    eyebrow: Cours d’espagnol langue étrangère
+    title: Espagnol pour enfants
+    align: center
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-etrangere/ele-enfants/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Cours idéal pour initier les jeunes à l’espagnol comme langue étrangère dans un cadre ludique, créatif et immersif, spécialement adapté à leur âge.
+
+      L’apprentissage se fait naturellement : les enfants découvrent l’espagnol en jouant, en chantant, en bougeant, en créant et en échangeant.
+
+      L’objectif n’est pas seulement de comprendre une langue étrangère, mais de la vivre, de s’y sentir à l’aise et d’y prendre plaisir.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Enfants 7 à 12 ans\n> Espagnol langue étrangère"
+      - "> Niveau débutant\n> Cours de groupe (max. 12)"
+      - "> Samedi\n> 12 h – 13 h 30"
+
+  - type: text
+    image: /images/2026/09/enfants-etudiant-espagnol.webp
+    image_side: left
+    heading: Apprendre l’espagnol par la langue… et la culture
+    body: |
+      Ce cours est une porte d’entrée vers le monde latino-américain. À travers les histoires, la musique, les traditions et les arts, les enfants découvrent des univers culturels riches et variés, tout en développant leur sensibilité interculturelle.
+
+  - type: text
+    color: yellow
+    columns: 2
+    heading: Les objectifs
+    body: |
+      Au fil des séances, les enfants développent :
+
+      - une première aisance à l’oral en espagnol
+      - du vocabulaire de la vie quotidienne
+      - une compréhension globale de la langue étrangère
+      - une confiance pour s’exprimer
+      - une ouverture culturelle
+
+      **Pourquoi choisir Legados?** Parce que nous croyons qu’une langue étrangère s’apprend d’abord par l’expérience, le plaisir et la curiosité. Nos cours offrent aux enfants une première rencontre positive et joyeuse avec l’espagnol, tout en posant des bases solides pour la suite de leur parcours linguistique.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Déroulement des séances
+    body: |
+      ### Chaque rencontre combine plusieurs types d’activités
+      - jeux dynamiques et coopératifs
+      - chansons et comptines en espagnol
+      - lectures et histoires illustrées
+      - bricolages et exploration artistique
+      - mises en situation simples
+      - échanges oraux guidés
+
+      ### Une pédagogie expérientielle
+      Nos cours reposent sur une pédagogie fondée sur l’expérience, l’oralité et l’expression personnelle. Le cours privilégie :
+
+      - l’exploration des cultures latino-américaines
+      - le jeu comme moteur d’apprentissage
+      - la participation active des enfants
+      - le plaisir de parler et de comprendre l’espagnol
+
+      Le rythme respecte les capacités d’attention et de concentration des enfants, dans un environnement bienveillant et stimulant. Les activités s’appuient sur du matériel authentique : albums illustrés, chansons, objets, images, jeux, créations manuelles et activités artistiques.
+
+  - type: people
+    heading: Professeure du cours
+    people:
+      - name: Rosario Rivero
+        photo: /images/2026/03/Rosario-Rivero-prof-espagnol.jpg
+        bio: |
+          « Je suis née à La Havane, là où la langue danse autant que la musique. Diplômée en langue et littérature françaises de l’Université de La Havane, spécialisée en linguistique, j’enseigne depuis plus de dix ans au primaire et au secondaire.
+
+          Enseigner ma langue maternelle, c’est faire vibrer les mots. J’aime l’énergie contagieuse des enfants, leurs éclats de rire, leurs questions qui fusent. Dans ma classe, on parle, on chante, on joue, on découvre. Chaque petit progrès est une fête. Curieuse, passionnée, toujours en mouvement. »
+
+  - type: cards
+    color: yellow
+    heading: Horaire
+    body: Les samedis de 12 h à 13 h 30
+    cards:
+      - { title: Automne, text: "24 octobre au 19 décembre" }
+      - { title: Hiver, text: "10 janvier au 21 mars\nCongé : 7 mars" }
+      - { title: Printemps, text: "28 mars au 6 juin\nCongé : 4 avril" }
+
+  - type: text
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End.
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-etrangere/ele-enfants/" }

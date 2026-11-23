@@ -1,0 +1,73 @@
+key: qui-sommes-nous
+slug: a-propos/qui-sommes-nous
+title: Qui sommes-nous
+description: Legados est une école de langue espagnole et un centre culturel à but non lucratif à Montréal, né du vécu de l’immigration.
+sections:
+  - type: page_title
+    title: Une école de langue espagnole et un institut culturel
+    align: center
+
+  - type: text
+    color: blue
+    image: /images/2025/12/legados-une-histoire-d-immigration.jpg
+    image_side: right
+    body: |
+      ### Legados est une école de langue et un centre culturel situé à Montréal. Nous offrons des cours d’espagnol pensés comme une expérience vivante. Legados est un organisme à but non lucratif.
+
+      Né du vécu de l’immigration et du lien profond que nous entretenons avec nos langues, Legados est un lieu où l’espagnol se raconte, se joue, se ressent et se partage. On y apprend la langue en entrant dans ses histoires, ses voix, ses gestes et ses imaginaires.
+
+      Cours, ateliers et événements culturels tissent un espace de création et de communauté. Ici, l’espagnol devient un lieu de reconnaissance et de joie, un pont entre les mémoires et le présent.
+
+      Enfants, jeunes et adultes y développent bien plus que des compétences linguistiques : ils y trouvent une langue à habiter.
+
+  - type: text
+    heading: Notre raison d’être
+    body: |
+      Legados est né d’un constat partagé par de nombreuses personnes immigrantes : avec le temps, la langue d’origine peut s’effacer, se fragmenter ou se taire. Pourtant, elle demeure porteuse de récits, de mémoires et d’émotions profondes. Legados est né de ce désir de ne pas laisser cette langue disparaître, de lui offrir un espace vivant où elle peut être parlée, transmise et transformée.
+
+  - type: text
+    color: yellow
+    image: /images/2025/12/Legados_cours-espagnol-etudiants-7-1-1024x683.png
+    image_side: left
+    heading: Apprendre l’espagnol autrement
+    body: |
+      À Legados, apprendre l’espagnol ne se résume pas à mémoriser des règles ou du vocabulaire. La langue est vécue comme une expérience globale, humaine et incarnée. On l’apprend en parlant, en lisant, en écoutant, en créant et en échangeant.
+
+      Les cours sont pensés comme des espaces de rencontre, où la langue prend sens dans des contextes culturels réels, en lien avec les parcours et les identités des apprenants.
+
+  - type: text
+    heading: "La littérature : au cœur du projet"
+    columns: 2
+    body: |
+      La littérature occupe une place centrale à Legados. Lire, c’est entrer en dialogue avec une culture, une tradition et une langue. Les œuvres latino-américaines — classiques et contemporaines, adaptées selon les âges — ouvrent des portes vers l’imaginaire, la réflexion et la compréhension du monde.
+
+      La tradition orale, les récits familiaux et les histoires du quotidien nourrissent également cette approche, faisant de la lecture un acte vivant et partagé.
+
+  - type: text
+    color: pink
+    image: /images/2025/12/filosofia-teatro-web.jpg
+    image_side: right
+    heading: Les arts comme langage
+    body: |
+      Le théâtre, les arts plastiques, le chant et la musique font partie intégrante de l’apprentissage à Legados. Ces pratiques artistiques soutiennent l’expression, la confiance et la créativité, tout en renforçant le lien affectif avec la langue.
+
+  - type: cards
+    color: grey
+    cards:
+      - title: La culture pour créer la communauté
+        text: |
+          Legados est aussi un lieu de vie culturelle. À travers des lectures, rencontres, ateliers et événements artistiques, l’institut crée des espaces de dialogue et de partage ouverts à la communauté.
+
+          Ces événements prolongent l’apprentissage et font de la langue un véritable vecteur de rencontre interculturelle.
+      - title: À qui s’adresse Legados
+        text: |
+          Legados s’adresse aux enfants, aux jeunes et aux adultes qui souhaitent apprendre ou approfondir l’espagnol dans un cadre humain et stimulant. Aux familles qui désirent transmettre une langue et une culture. Aux personnes issues de l’immigration comme à celles qui découvrent l’espagnol par curiosité ou par affinité.
+      - title: Une vision
+        text: |
+          Legados repose sur une conviction simple et forte : les langues sont des espaces de vie, de mémoire et de création. Les faire vivre, les transmettre et les partager est un geste essentiel.
+
+  - type: text
+    color: blue
+    align: center
+    body: |
+      ### Choisir Legados, c’est rejoindre un lieu où l’espagnol est vivant, habité et en constante évolution — un lieu pour apprendre, créer et faire dialoguer les héritages.

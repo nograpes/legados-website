@@ -1,0 +1,145 @@
+{#
+  One macro per section type. Every section can have:
+    id      – anchor name, so a link can jump to it (page:key#id)
+    color   – background: white, grey, yellow, orange, red, blue, green, pink, cream, slate
+  See README.md for the fields of each type.
+#}
+
+{% macro buttons(list, align='') %}
+{% if list %}
+<div class="buttons{% if align %} {{ align }}{% endif %}">
+  {% for b in list %}
+  <a class="btn{% if b.style %} btn-{{ b.style }}{% endif %}" href="{{ link(b.url) }}"{% if b.url and b.url.startswith('http') %} target="_blank" rel="noopener"{% endif %}>{{ b.label }}</a>
+  {% endfor %}
+</div>
+{% endif %}
+{% endmacro %}
+
+{% macro img(src, alt='', cls='', sizes='') %}
+{% if src %}<img src="{{ src }}" alt="{{ alt or '' }}"{% if cls %} class="{{ cls }}"{% endif %} loading="lazy">{% endif %}
+{% endmacro %}
+
+{% macro render(x, s) %}
+{% set t = x.type or 'text' %}
+<section class="sec sec-{{ t }} bg-{{ x.color or 'white' }}{% if x.align %} align-{{ x.align }}{% endif %}"{% if x.id %} id="{{ x.id }}"{% endif %}>
+
+{% if t == 'hero_home' %}
+  <div class="wrap center">
+    <p class="hero-name">{{ x.title }}</p>
+    {{ img(x.image, '', 'hero-mascot') }}
+    {% for line in x.lines or [] %}
+      {% if loop.first %}<h1 class="hero-line c-{{ line.color or 'blue' }}">{{ line.text }}</h1>
+      {% else %}<p class="hero-line c-{{ line.color or 'blue' }}{% if line.small %} small-line{% endif %}">{{ line.text }}</p>{% endif %}
+    {% endfor %}
+    {{ buttons(x.buttons, 'center') }}
+  </div>
+
+{% elif t == 'page_title' %}
+  <div class="wrap{% if x.align == 'center' %} center{% endif %}">
+    {% if x.eyebrow %}<p class="pill">{{ x.eyebrow }}</p>{% endif %}
+    <h1>{{ x.title }}</h1>
+    {% if x.subtitle %}<p class="subtitle">{{ x.subtitle }}</p>{% endif %}
+    {{ buttons(x.buttons, 'center' if x.align == 'center' else '') }}
+  </div>
+
+{% elif t == 'banner' %}
+  <div class="wrap center">
+    {% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}
+    {{ img(x.image, x.alt, 'banner-img') }}
+    {{ buttons(x.buttons, 'center') }}
+  </div>
+
+{% elif t == 'video' %}
+  <div class="wrap{% if x.full %} wide{% endif %}">
+    {% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}
+    <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{{ x.youtube }}?rel=0" title="{{ x.title or 'Vidéo' }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  </div>
+
+{% elif t == 'facts' %}
+  <div class="wrap facts">
+    {% for item in x['items'] or [] %}<div class="fact">{{ inline(item) }}</div>{% endfor %}
+  </div>
+
+{% elif t == 'gallery' %}
+  <div class="wrap">
+    {% if x.heading %}<h2 class="{% if x.align == 'center' %}center{% endif %}">{{ x.heading }}</h2>{% endif %}
+    <div class="gallery cols-{{ x.columns or (x.images|length if x.images|length < 5 else 4) }}">
+      {% for i in x.images or [] %}{{ img(i.src, i.alt) }}{% endfor %}
+    </div>
+    {{ buttons(x.buttons, 'center') }}
+  </div>
+
+{% elif t == 'quote' %}
+  <div class="wrap">
+    <div class="quote-box">
+      {{ img(x.image, x.author, 'quote-img') }}
+      <div>
+        <blockquote>{{ text(x.text) }}</blockquote>
+        <p class="quote-author"><strong>{{ x.author }}</strong>{% if x.role %}<br>{{ x.role }}{% endif %}</p>
+      </div>
+    </div>
+  </div>
+
+{% elif t == 'band' %}
+  <div class="band"{% if x.image %} style="background-image:url('{{ x.image }}')"{% endif %}>
+    <h2>{{ x.heading }}</h2>
+  </div>
+
+{% elif t == 'people' %}
+  <div class="wrap">
+    {% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}
+    {% if x.body %}<div class="prose">{{ text(x.body) }}</div>{% endif %}
+    <div class="people">
+      {% for p in x.people or [] %}
+      <article class="person">
+        {{ img(p.photo, p.name, 'person-photo') }}
+        <div>
+          <h3>{{ p.name }}</h3>
+          {% if p.role %}<p class="person-role">{{ p.role }}</p>{% endif %}
+          <div class="prose">{{ text(p.bio) }}</div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+
+{% elif t == 'cards' %}
+  <div class="wrap">
+    {% if x.heading %}<h2 class="{% if x.align == 'center' %}center{% endif %}">{{ x.heading }}</h2>{% endif %}
+    {% if x.body %}<div class="prose">{{ text(x.body) }}</div>{% endif %}
+    <div class="cards">
+      {% for c in x.cards or [] %}
+      <article class="card">
+        {{ img(c.image, c.alt) }}
+        <div class="card-body">
+          {% if c.eyebrow %}<p class="eyebrow">{{ c.eyebrow }}</p>{% endif %}
+          {% if c.title %}<h3>{{ c.title }}</h3>{% endif %}
+          {% if c.text %}<div class="prose">{{ text(c.text) }}</div>{% endif %}
+          {% if c.button %}{{ buttons([c.button]) }}{% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    {{ buttons(x.buttons, 'center') }}
+  </div>
+
+{% elif t == 'map' %}
+  <div class="wrap split">
+    <div class="prose">{% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}{{ text(x.body) }}</div>
+    <div class="map"><iframe src="{{ x.embed }}" title="Carte / Map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+  </div>
+
+{% else %}{# text #}
+  <div class="wrap{% if x.image %} split img-{{ x.image_side or 'right' }}{% endif %}{% if x.box %} boxed box-{{ x.box }}{% endif %}">
+    {% if x.image %}<div class="split-img">{{ img(x.image, x.alt, 'shape-' ~ (x.image_shape or 'rounded')) }}</div>{% endif %}
+    <div class="prose{% if x.columns == 2 %} two-cols{% endif %}">
+      {% if x.eyebrow %}<p class="eyebrow">{{ x.eyebrow }}</p>{% endif %}
+      {% if x.heading %}<h2>{{ x.heading }}</h2>{% endif %}
+      {% if x.subheading %}<p class="lead">{{ x.subheading }}</p>{% endif %}
+      {{ text(x.body) }}
+      {{ buttons(x.buttons, 'center' if x.align == 'center' else '') }}
+    </div>
+  </div>
+{% endif %}
+</section>
+{% endmacro %}

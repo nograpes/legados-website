@@ -1,0 +1,71 @@
+key: equipe
+slug: about/team
+title: Team
+description: The Legados team — our Spanish teachers and our board of directors.
+sections:
+  - type: page_title
+    title: The Legados team
+    align: center
+
+  - type: text
+    color: yellow
+    align: center
+    body: |
+      At Legados, nothing happens alone. Ideas are born, grow and come to life thanks to a passionate team that thinks, creates and builds together.
+
+      Legados is of course about teaching Spanish, but also activities, music, singing, drawing, cooking and a thousand other ways to bring the language and culture to life.
+
+      Each person brings their voice, energy and talent to make Legados a lively, creative and deeply human place.
+
+  - type: people
+    heading: Our Spanish teachers
+    people:
+      - name: Camila Saland
+        photo: /images/2026/04/Camila_Saland_profe_de_Bicicleta_3_2.webp
+        bio: “Hi, I’m Camila! I’m from Argentina and the United States, and I speak Rioplatense Spanish. I teach the Bicicleta 1-2 heritage-language class and I love sharing the language and culture. Legados is a very special place for me, especially for its beautiful Spanish library. In my free time I enjoy photography, cycling, reading and crochet.”
+      - name: Melina Marín
+        photo: /images/2026/04/Meli-Marin_profe-ELE-adultos-y-Bibliotecaria-926x1024.webp
+        bio: “My name is Melina Marín and I live in Córdoba, Argentina. For more than 20 years I have taught English and Spanish, with the joy of guiding people every day as they discover a new language. What ties me to Legados is the pleasure of passing things on, and the wish to open, through Spanish, a window on our language and culture.”
+      - name: Rosario Rivero
+        photo: /images/2026/03/Rosario-Rivero-prof-espagnol-238x300.jpg
+        bio: “I was born in Havana, where language dances as much as music does. I hold a degree in French language and literature from the University of Havana, specializing in linguistics, and I have taught elementary and high school for more than ten years. Teaching my first language means making words come alive. Curious, passionate, always on the move.”
+      - name: Sofia Urrutia
+        photo: /images/2026/03/Sofia-Urrutia-prof-espagnol-300x254.jpeg
+        bio: “I’m Chilean, an educator by profession and by calling. Over my personal and professional journey, I became interested in intercultural education and in teaching and learning Spanish. I’m the mom of a little Chilean-Canadian multilingual boy. I’m happy to guide the PAÑALES parent-child group as they discover Spanish with wonder.”
+      - name: Roxana Bertola
+        photo: /images/2026/11/Roxana-legados-238x300.jpg
+        bio: “¡Hola! I’m Roxana, from Mar del Plata, Argentina. I studied philosophy and I teach Spanish as a foreign language. What moves me most is knowing that everyone who learns Spanish at Legados leaves with a little piece of Latin America. For me, Legados is a place of encounters and sharing, where we also pass on a part of who we are.”
+      - name: Mariana Marín
+        photo: /images/2026/04/Mariana-prof-espagnol-300x296.webp
+        bio: “Hello! An Argentinian immigrant and Latin-Canadian, I hold a degree in social communication and a master’s in social anthropology, and I am currently a master’s student in Hispanic studies at the Université de Montréal. I founded Legados in Montreal in 2017 to create a space dedicated to passing on Spanish and Latin American cultures.”
+      - name: Andrea Restrepo
+        bio: “Andrea here — a visual artist from Colombia. I work in illustration, watercolour and ceramics. At Legados, I bring art into Spanish learning through workshops and creative projects, to bring Latin American language and culture to life.”
+
+  - type: people
+    color: grey
+    heading: Board of directors
+    people:
+      - name: Tatiana Gómez
+        role: President
+        photo: /images/2026/11/Headshot-2.jpg
+        bio: Tatiana Gomez is an immigration and refugee lawyer. She has extensive experience working with social movements and community organizations, and her career is deeply rooted in the values of social justice and solidarity. The daughter of working-class parents who themselves immigrated, she is especially attuned to questions of cultural transmission, language and belonging. Her daughter has attended Legados since its very beginnings, a sign of her personal commitment to the organization’s mission.
+      - name: Marielle Blanchard
+        role: Treasurer
+        photo: /images/2026/04/marielle-blanchard-CA-legados-300x287.webp
+        bio: After a career in accounting, Marielle discovered Legados by signing up for a Spanish class. She is now part of the team and helps with accounting and administration.
+      - name: Ana-Ines Ansaldo
+        role: Director
+        photo: /images/2025/12/ana_CA-legados-300x300.jpg
+        bio: A researcher in the neuroscience of language and cognition and a professor at the Université de Montréal, Ana-Ines sees Legados as a precious place for cultural and linguistic transmission, fostering growth and respect for oneself and others at every age.
+      - name: Kristelle Hollidaz
+        role: Director
+        photo: /images/2025/12/kristelle_CA-legados-1-300x300.jpg
+        bio: Based in Sherbrooke for 12 years after a journey through Europe, Africa and North America, Kristelle pioneered landscape theatre at the Théâtre des Petites Lanternes, where she creates artistic experiences tied to natural places. She also founded the Rivières de Lumières festival, which celebrated its tenth edition in 2024.
+      - name: Mariana Marín
+        role: Director
+        photo: /images/2026/04/Mariana-prof-espagnol-300x296.webp
+        bio: “Hello! An Argentinian immigrant and Latin-Canadian, I hold a degree in social communication and a master’s in social anthropology, and I am currently a master’s student in Hispanic studies at the Université de Montréal. I founded Legados in Montreal in 2017 to create a space dedicated to passing on Spanish and Latin American cultures.”
+      - name: Marie Christine Dorey
+        role: Director
+        photo: /images/2026/11/marie-christine-dorey-1-300x269.jpg
+        bio: An obstetrician-gynecologist, Marie currently works at the Université de Montréal in public health research and international cooperation, in the field of sexual and reproductive health. Her two daughters, whose father is Venezuelan, are growing up between French and Spanish. The family chose Legados to give them a Spanish-speaking environment outside the home and help pass on their cultural and linguistic heritage. Today, they are proud to be part of the Legados community.

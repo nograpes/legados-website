@@ -1,0 +1,73 @@
+key: qui-sommes-nous
+slug: about/who-we-are
+title: Who we are
+description: Legados is a non-profit Spanish language school and cultural centre in Montreal, born of the immigrant experience.
+sections:
+  - type: page_title
+    title: A Spanish language school and a cultural institute
+    align: center
+
+  - type: text
+    color: blue
+    image: /images/2025/12/legados-une-histoire-d-immigration.jpg
+    image_side: right
+    body: |
+      ### Legados is a language school and cultural centre in Montreal. We offer Spanish classes designed as a living experience. Legados is a non-profit organization.
+
+      Born of the immigrant experience and of the deep bond we have with our languages, Legados is a place where Spanish is told, played, felt and shared. Here you learn the language by stepping into its stories, its voices, its gestures and its imagination.
+
+      Classes, workshops and cultural events weave a space of creativity and community. Here, Spanish becomes a place of recognition and joy, a bridge between memory and the present.
+
+      Children, teens and adults develop much more than language skills: they find a language to call home.
+
+  - type: text
+    heading: Why we exist
+    body: |
+      Legados grew out of something many immigrants experience: over time, the language of origin can fade, break apart or fall silent. Yet it still carries stories, memories and deep emotions. Legados was born of the wish not to let that language disappear — to give it a living space where it can be spoken, passed on and transformed.
+
+  - type: text
+    color: yellow
+    image: /images/2025/12/Legados_cours-espagnol-etudiants-7-1-1024x683.png
+    image_side: left
+    heading: Learning Spanish differently
+    body: |
+      At Legados, learning Spanish isn’t about memorizing rules or vocabulary. The language is lived as a whole, human, embodied experience. You learn it by speaking, reading, listening, creating and sharing.
+
+      Classes are designed as meeting places, where the language takes on meaning in real cultural contexts, connected to learners’ journeys and identities.
+
+  - type: text
+    heading: "Literature: at the heart of the project"
+    columns: 2
+    body: |
+      Literature plays a central role at Legados. To read is to enter into dialogue with a culture, a tradition and a language. Latin American works — classic and contemporary, adapted for each age — open doors to imagination, reflection and understanding of the world.
+
+      Oral tradition, family stories and everyday tales also feed this approach, making reading a living, shared act.
+
+  - type: text
+    color: pink
+    image: /images/2025/12/filosofia-teatro-web.jpg
+    image_side: right
+    heading: The arts as a language
+    body: |
+      Theatre, visual arts, singing and music are an integral part of learning at Legados. These art forms support expression, confidence and creativity, while strengthening the emotional bond with the language.
+
+  - type: cards
+    color: grey
+    cards:
+      - title: Culture to build community
+        text: |
+          Legados is also a place of cultural life. Through readings, gatherings, workshops and art events, the institute creates spaces for dialogue and sharing that are open to the community.
+
+          These events extend learning and make the language a true vehicle for intercultural encounters.
+      - title: Who Legados is for
+        text: |
+          Legados is for children, teens and adults who want to learn or deepen their Spanish in a warm and stimulating setting. For families who want to pass on a language and a culture. For people with immigrant backgrounds, and for those discovering Spanish out of curiosity or affinity.
+      - title: A vision
+        text: |
+          Legados rests on a simple, strong conviction: languages are spaces of life, memory and creation. Keeping them alive, passing them on and sharing them is an essential act.
+
+  - type: text
+    color: blue
+    align: center
+    body: |
+      ### Choosing Legados means joining a place where Spanish is alive, lived in and always evolving — a place to learn, create and bring heritages into dialogue.

@@ -1,0 +1,133 @@
+key: ele-adultes
+slug: cours-d-espagnol-montreal/ele-adultes
+title: Cours d’espagnol pour adultes
+description: Cours d’espagnol langue étrangère pour adultes à Montréal, du niveau A1 au C1 (CECR). Petits groupes de 8, sessions de 8 semaines.
+sections:
+  - type: page_title
+    eyebrow: Cours d’espagnol langue étrangère
+    title: Cours d’espagnol pour adultes
+    subtitle: Cours régulier de groupe
+    align: center
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-etrangere/cours-regulier/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Les cours d’espagnol langue étrangère pour adultes offerts par Legados proposent une expérience d’apprentissage complète, efficace et rapide, alignée sur le [Cadre européen commun de référence pour les langues (CECR)](https://www.coe.int/fr/web/common-european-framework-reference-languages), un système de niveaux de cours reconnu mondialement.
+
+      Nous garantissons un progrès dynamique dans votre apprentissage (parler, lire, écrire, écouter et comprendre les cultures). Vous serez accompagné par des enseignants hautement qualifiés, recourant à des méthodes novatrices et adaptées aux besoins des apprenants.
+
+      **L’accent est mis sur la culture, les arts et la vie de tous les jours.**
+
+  - type: facts
+    color: orange
+    items:
+      - "> Adultes\n> Espagnol langue étrangère\n> Plusieurs niveaux"
+      - "> Cours de groupe\n> Max 8 participants\n> En personne"
+      - "> Session de 8 semaines\n> Séances de 3 heures\n> 425 $"
+
+  - type: text
+    image: /images/2025/04/4._curso_regular_privado-2016x1512-1-1024x768.jpg
+    image_side: right
+    heading: Calendrier 2026-2027
+    body: |
+      L’année 2026-2027 compte 5 sessions : 2 à l’automne, 2 à l’hiver et 1 au printemps.
+
+      - **Automne 1 :** 31 août – 23 octobre
+      - **Automne 2 :** 26 octobre – 14 décembre
+      - **Hiver 1 :** 4 janvier – 26 février (inscriptions à partir du 15 novembre)
+      - **Hiver 2 :** 1er mars – 23 avril (inscriptions à partir du 20 janvier)
+      - **Printemps :** 26 avril – 18 juin (inscriptions à partir du 15 mars)
+
+      | Niveau | Horaire |
+      |---|---|
+      | A1.1, A1.2 et A1.3 | Jeudi : 17 h 30 – 20 h 45 |
+      | A2.2 | Lundi : 17 h 30 – 20 h 45 |
+      | A2.3* | Mercredi : 18 h 40 – 20 h 40 |
+      | B1.2 | Mardi : 17 h 30 – 20 h 45 |
+
+      \*Les sessions du cours A2.3 sont : 2 septembre – 18 novembre // 25 novembre – 24 février // 3 mars – 19 mai
+
+  - type: text
+    color: yellow
+    align: center
+    heading: Ce cours est aussi offert en version privée et en formule intensive
+    buttons:
+      - { label: Cours privés, url: "https://legados.ca/ele-adultes-cours-prives/", style: outline }
+      - { label: Cours intensifs, url: "https://legados.ca/ele-adultes-cours-intensifs/", style: outline }
+
+  - type: text
+    image: /images/2025/10/cours-espagnol-montreal-prof-et-eleves.jpg
+    image_side: left
+    heading: Le test de classement
+    body: |
+      Il y a plusieurs niveaux pour ce cours. C’est pourquoi vous devez passer un test de classement, à moins que vous soyez complètement débutant (vous êtes alors au niveau A1.1).
+
+      Les niveaux :
+
+      - **A** = débutant (avec les sous-niveaux A1.1, A1.2, A2.1, etc.)
+      - **B** = intermédiaire (avec les sous-niveaux)
+      - **C** = avancé (avec les sous-niveaux)
+
+      Chez Legados, les cours vont de A1 à C1.
+    buttons:
+      - { label: Je veux passer un test de classement, url: "https://legados.ca/test-de-classement/" }
+
+  - type: cards
+    color: grey
+    heading: Ce que vous apprendrez
+    cards:
+      - title: L’espagnol de tous les jours
+        text: |
+          Les cours mettent l’accent sur l’usage réel de la langue, notamment :
+
+          - grammaire et vocabulaire appliqués à des situations concrètes
+          - compréhension écrite et orale
+          - lecture, écriture et écoute active
+      - title: Conversation, phonétique et culture
+        text: |
+          Une attention particulière est portée à l’oral :
+
+          - amélioration de la prononciation et de la fluidité
+          - développement de la confiance à l’oral
+          - exploration de questions culturelles et sociales du monde hispanophone
+      - title: Compétences interculturelles
+        text: |
+          Vous développerez :
+
+          - une meilleure compréhension de la diversité culturelle
+          - la capacité d’interagir avec sensibilité dans des contextes hispaniques variés
+
+  - type: text
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Caractéristiques des cours
+    body: |
+      ### Matériel pédagogique et ressources
+      - Du matériel didactique spécialisé, conçu pour favoriser une immersion complète.
+      - Un accès à notre [bibliothèque de livres espagnols](page:bibliotheque).
+      - Des ateliers culturels intégrés au programme [Expérience culturelle](page:culture).
+
+      ### Encadrement pédagogique
+      Les cours sont assurés par des professeur·es hautement qualifié·es, spécialisé·es dans l’enseignement de l’espagnol comme langue étrangère.
+
+      ### Manuels utilisés
+      Les niveaux débutants (A1-A2) sont enseignés avec les livres [Experiencias modular](https://lasamericas.ca/fr/produits/29904/experiencias-modular-a1-libro-1). Le niveau intermédiaire B1 est enseigné avec [En Plural](https://lasamericas.ca/fr/produits/39668/en-plural-b1-libro-alumno).
+
+  - type: people
+    heading: Professeure du cours
+    people:
+      - name: Meli Marín
+        photo: /images/2026/04/Meli-Marin_profe-ELE-adultos-y-Bibliotecaria-926x1024.webp
+        bio: |
+          « Je m’appelle Melina Marín et je vis à Córdoba, en Argentine. Depuis plus de 20 ans, j’enseigne l’anglais et l’espagnol, avec le bonheur d’accompagner chaque jour la découverte d’une nouvelle langue. Ce qui me lie à Legados, c’est le plaisir de transmettre et l’envie d’ouvrir, à travers l’espagnol, une fenêtre sur notre langue et notre culture. »
+
+  - type: text
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End.
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-etrangere/cours-regulier/" }

@@ -1,0 +1,70 @@
+key: camp
+slug: day-camp
+title: Spanish day camp
+description: Spanish immersion day camp for ages 5 to 11 in Montreal, June 22 to July 3, 2026. Soccer and cooking.
+sections:
+  - type: page_title
+    eyebrow: 2 weeks / June 22 to July 3, 2026
+    title: Spanish day camp
+    subtitle: Learning Spanish by playing, singing, moving and exploring
+    align: center
+
+  - type: text
+    color: blue
+    align: center
+    body: |
+      A Spanish immersion camp with a cultural, communicative, original and fun approach.
+
+      Spanish class in the morning, and an art or sport in the afternoon.
+
+      ### Themes for summer 2026
+      **Week 1: soccer** · **Week 2: cooking**
+
+  - type: facts
+    color: orange
+    items:
+      - "> Ages 5 to 11\n> Small groups"
+      - "> No Spanish needed!"
+      - "> 8:30 a.m. to 4 p.m.\n> $295 / week"
+
+  - type: gallery
+    heading: Week 1 – June 22-26 · Soccer
+    images:
+      - { src: /images/2026/04/soccer1-camp-de-jour-legados-1.webp, alt: Children playing soccer }
+      - { src: /images/2026/04/soccer2-camp-de-jour-legados-1.webp, alt: Children playing soccer }
+
+  - type: text
+    columns: 2
+    body: |
+      In the morning, language classes draw on reading, songs, music, drawing and visual arts. There is a snack break mid-morning.
+
+      Afternoons are an introduction to soccer, with outdoor games, group activities, friendly matches and drills adapted to each child’s level.
+
+  - type: gallery
+    color: yellow
+    heading: Week 2 – June 29 – July 3 · Cooking
+    images:
+      - { src: /images/2026/04/cuisine-1-camp-de-jour-legados.webp, alt: Children cooking }
+      - { src: /images/2026/04/cuisine-2-camp-de-jour-legados.webp, alt: Children cooking }
+
+  - type: text
+    color: yellow
+    columns: 2
+    body: |
+      In the morning, children discover the language by reading, singing and exploring music, while expressing themselves through drawing and visual arts. There is a snack break mid-morning.
+
+      Afternoons are for cooking to music. From Mexico to Argentina, campers discover and prepare simple recipes.
+
+  - type: text
+    align: center
+    heading: Schedule
+    body: |
+      Monday to Friday, 8:30 a.m. to 4 p.m.
+
+      **Week 1:** June 22-26 · **Week 2:** June 29 – July 3
+
+      We meet at the Legados Institute in the Mile-End
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+      [info@legados.ca](mailto:info@legados.ca) · [514 867 9363](tel:+15148679363)
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/camp-de-jour/camp-de-jour-2026/" }

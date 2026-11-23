@@ -1,0 +1,44 @@
+key: culture
+slug: culture
+title: Culture
+description: Ateliers, fêtes culturelles, lectures, poésie, danse et cuisine — vivez la culture latino-américaine avec Legados à Montréal.
+sections:
+  - type: page_title
+    title: Vivez la culture latino-américaine!
+    align: center
+
+  - type: text
+    color: yellow
+    image: /images/2025/10/lenguaje-herencia-legados7-web.jpg
+    image_side: right
+    heading: Soirée pyjama pour les 5 à 12 ans
+    body: Samedi 14 novembre de 17 h à 21 h
+    buttons:
+      - { label: En savoir plus, url: "https://legados.ca/soiree-pyjama" }
+
+  - type: text
+    image: /images/2026/04/femme-dansante2000x1333-1024x682.webp
+    image_side: left
+    heading: "Legados, c’est aussi la culture latino-américaine : chant, littérature, cuisine, dessin, danse"
+    body: |
+      Legados vous invite à une immersion joyeuse dans la culture latino-américaine.
+
+      La culture qui se vit en chantant, qui s’écrit en espagnol et en poésie, qui se cuisine à petit feu et se savoure sur le coin d’une table.
+
+      La culture qui s’exprime par la danse, le dessin, les mots, les couleurs et les gestes.
+
+      À travers nos ateliers créatifs, nos fêtes culturelles, nos lectures, nos projets d’art et nos recettes partagées, petits et grands découvrent une culture vibrante, chaleureuse et inclusive.
+
+      Chez Legados, apprendre une langue, c’est aussi entrer en relation avec un monde vivant.
+
+  - type: cards
+    color: pink
+    cards:
+      - title: Le mois de l’héritage latino-américain
+        text: Venez célébrer la culture des communautés latino-américaines.
+        image: /images/2026/04/mois-heritage-lationo.webp
+        button: { label: En savoir plus, url: "https://legados.ca/culture/mois-de-l-heritage-latino-americain" }
+      - title: Atelier de poésie en espagnol
+        text: Explorez la poésie comme moyen d’expression et de réflexion.
+        image: /images/2026/04/escritura_creativa_foto_adultos_mayores.webp
+        button: { label: En savoir plus, url: "https://legados.ca/culture/atelier-de-poesie" }

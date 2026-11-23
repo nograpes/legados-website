@@ -1,0 +1,91 @@
+key: cours-3ans
+slug: cours-d-espagnol-montreal/3ans
+title: Espagnol en tricycle (3 ans)
+description: Cours d’espagnol langue maternelle pour enfants de 3 ans de familles hispanophones, le samedi matin dans le Mile-End à Montréal.
+sections:
+  - type: page_title
+    eyebrow: Cours d’espagnol langue maternelle
+    title: Espagnol en tricycle (3 ans)
+    align: center
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/3ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Ce cours d’espagnol langue maternelle s’adresse aux enfants de 3 ans issus de familles hispanophones.
+
+      Il permet aux enfants de découvrir la langue à travers la lecture par l’image, le jeu, le mouvement et la création. Une première immersion joyeuse et affective dans la langue et la culture hispano-américaine.
+
+      La manière idéale de découvrir l’espagnol par le biais d’activités créatives et interactives.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Enfants 3 ans\n> Issus d’une famille hispanophone"
+      - "> Cours de groupe\n> Max 12 participants"
+      - "> Samedi\n> 9 h 30 – 10 h 30\n> 275 $"
+
+  - type: text
+    image: /images/2026/05/tricycle-jeunes-avec-professeure.webp
+    image_side: left
+    body: |
+      Le cours Tricycle a une structure adaptée au développement des enfants de 3 ans.
+
+      Il s’articule autour de trois moments clés :
+
+      - chanson d’accueil (répétition gestuelle),
+      - animation autour de la lecture (lecture de textes courts et lecture par l’image),
+      - exploration sensorielle et manipulation d’objets (utilisation d’images géantes, de marionnettes — comme Quirquincho — et d’objets du quotidien).
+
+  - type: cards
+    color: yellow
+    heading: Les objectifs
+    cards:
+      - title: Compréhension et expression en espagnol
+        text: Les enfants découvrent l’espagnol dans toute sa vivacité — non seulement à la maison, mais aussi dans le monde qui les entoure. On les aide à intégrer la langue dans leur quotidien, en jouant, en parlant, en chantant.
+      - title: Développement personnel et culturel
+        text: "Tricycle invite les enfants à explorer leur univers immédiat et à poser les bases de leur identité : le « Je »."
+      - title: Compétences artistiques et linguistiques
+        text: En chantant, en bougeant, en créant, les enfants développent leur imagination et leur aisance à s’exprimer. La langue devient un terrain de jeu, un outil de création et un moyen d’affirmer qui ils sont.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Une approche pédagogique vivante et complète
+    body: |
+      ### Des thèmes qui parlent aux enfants
+      Grâce à des histoires, des chansons, des images et des extraits vidéo, les enfants explorent des thèmes concrets et actuels comme l’environnement, la famille ou la communauté. Ils enrichissent leur vocabulaire tout en développant leur compréhension du monde hispanophone.
+
+      ### Apprendre en jouant, créer en apprenant
+      En plus des lectures et des échanges oraux, les enfants bougent, dessinent, chantent, participent à des jeux physiques et à des activités de pré-écriture. Tout est pensé pour que l’apprentissage soit actif, stimulant et joyeux.
+
+      ### Un espace pour s’exprimer et s’affirmer
+      Ce cours leur offre un cocon sécurisant pour nourrir leur imagination, renforcer leur confiance et découvrir la richesse de la culture latino-américaine. Les enfants se rapprochent de leurs racines, apprennent à s’exprimer avec authenticité — en espagnol et avec fierté.
+
+  - type: people
+    heading: Professeure du cours
+    people:
+      - name: Sofia Urrutia
+        photo: /images/2026/03/Sofia-Urrutia-prof-espagnol-1024x866.jpeg
+        bio: |
+          « Je suis chilienne, éducatrice de profession et par vocation. Au cours de mon parcours personnel et professionnel, je me suis intéressée à l’éducation interculturelle et à l’enseignement et l’apprentissage de l’espagnol. Je suis maman d’un petit multilingue chilien-canadien. »
+
+  - type: cards
+    color: yellow
+    heading: Horaire
+    body: Les samedis de 9 h 30 à 10 h 30 – 13 semaines
+    cards:
+      - { title: Automne 2026, text: "12 septembre au 5 décembre\nCongé : 10 octobre" }
+      - { title: Hiver 2027, text: "9 janvier au 20 mars\nCongé : 6 mars" }
+      - { title: Printemps 2027, text: "3 avril au 5 juin" }
+
+  - type: text
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End.
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/3ans/" }

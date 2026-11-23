@@ -1,0 +1,31 @@
+key: bibliotheque
+slug: bibliotheque
+title: Bibliothèque
+description: Plus de 1000 livres en espagnol pour enfants, adolescents et adultes, au cœur du Mile-End à Montréal. Consultez le catalogue en ligne.
+sections:
+  - type: page_title
+    eyebrow: Enrichissez votre culture et votre espagnol grâce aux livres !
+    title: Votre bibliothèque de livres en espagnol
+    align: center
+
+  - type: text
+    color: yellow
+    align: center
+    body: |
+      Nous mettons à votre disposition une bibliothèque de **plus de 1000 livres en espagnol**.
+
+      De la littérature hispano-américaine, latino-américaine et espagnole, sans oublier la littérature du monde entier traduite en espagnol.
+
+      Pour les enfants, les adolescents et les adultes – de 2 mois à 102 ans.
+    buttons:
+      - { label: Catalogue, url: "https://www.libib.com/u/bibliotecalegados" }
+
+  - type: text
+    image: /images/2025/10/espanol-monopatin.jpg
+    image_side: right
+    body: |
+      ### Consultez notre catalogue numérique pour vérifier la disponibilité d’un livre et pour réserver
+
+      ### La bibliothèque dispose d’un coin lecture. Venez avec vos enfants!
+
+      La bibliothèque de Legados a été créée avec la généreuse collaboration du [Consulat d’Argentine à Montréal](http://cmrea.mrecic.gov.ar/), que nous remercions vivement.

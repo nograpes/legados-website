@@ -1,0 +1,101 @@
+key: ele-enfants
+slug: spanish-classes/spanish-for-children
+title: Spanish as a foreign language for children
+description: Beginner Spanish classes for children aged 7 to 12 from non-Spanish-speaking families, Saturdays at noon in Montreal’s Mile-End.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a foreign language
+    title: Spanish for children
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-etrangere/ele-enfants/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      The ideal class to introduce young people to Spanish as a foreign language in a playful, creative and immersive setting designed for their age.
+
+      Learning happens naturally: children discover Spanish by playing, singing, moving, creating and talking together.
+
+      The goal is not only to understand a foreign language, but to live it, feel at ease with it and enjoy it.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Children aged 7 to 12\n> Spanish as a foreign language"
+      - "> Beginner level\n> Group class (max. 12)"
+      - "> Saturday\n> 12:00 – 1:30 p.m."
+
+  - type: text
+    image: /images/2026/09/enfants-etudiant-espagnol.webp
+    image_side: left
+    heading: Learning Spanish through language… and culture
+    body: |
+      This class is a gateway to the Latin American world. Through stories, music, traditions and the arts, children discover rich and varied cultures while developing their intercultural awareness.
+
+  - type: text
+    color: yellow
+    columns: 2
+    heading: Goals
+    body: |
+      Over the sessions, children develop:
+
+      - a first ease in speaking Spanish
+      - everyday vocabulary
+      - an overall understanding of the language
+      - the confidence to express themselves
+      - openness to other cultures
+
+      **Why choose Legados?** Because we believe a foreign language is learned first through experience, enjoyment and curiosity. Our classes give children a positive, joyful first encounter with Spanish while laying solid foundations for the rest of their language journey.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: What a class looks like
+    body: |
+      ### Each class combines several kinds of activities
+      - active, cooperative games
+      - songs and nursery rhymes in Spanish
+      - readings and picture-book stories
+      - crafts and artistic exploration
+      - simple role-plays
+      - guided conversation
+
+      ### Experiential teaching
+      Our classes rely on experience, speaking and personal expression. The class emphasizes:
+
+      - exploring Latin American cultures
+      - play as a driver of learning
+      - children’s active participation
+      - the pleasure of speaking and understanding Spanish
+
+      The pace respects children’s attention span, in a caring and stimulating environment. Activities use authentic material: picture books, songs, objects, images, games, crafts and art activities.
+
+  - type: people
+    heading: Teacher
+    people:
+      - name: Rosario Rivero
+        photo: /images/2026/03/Rosario-Rivero-prof-espagnol.jpg
+        bio: |
+          “I was born in Havana, where language dances as much as music does. I hold a degree in French language and literature from the University of Havana, specializing in linguistics, and I have taught elementary and high school for more than ten years.
+
+          Teaching my first language means making words come alive. I love children’s contagious energy, their bursts of laughter, their endless questions. In my class we talk, sing, play and discover. Every small step forward is a celebration. Curious, passionate, always on the move.”
+
+  - type: cards
+    color: yellow
+    heading: Schedule
+    body: Saturdays, 12:00 to 1:30 p.m.
+    cards:
+      - { title: Fall, text: "October 24 to December 19" }
+      - { title: Winter, text: "January 10 to March 21\nNo class: March 7" }
+      - { title: Spring, text: "March 28 to June 6\nNo class: April 4" }
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-etrangere/ele-enfants/" }

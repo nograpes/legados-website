@@ -1,0 +1,70 @@
+key: camp
+slug: camp-de-jour-et-relache/camp-de-jour
+title: Camp de jour en espagnol
+description: Camp de jour d’immersion en espagnol pour les 5 à 11 ans à Montréal, du 22 juin au 3 juillet 2026. Soccer et cuisine.
+sections:
+  - type: page_title
+    eyebrow: 2 semaines / du 22 juin au 3 juillet 2026
+    title: Camp de jour en espagnol
+    subtitle: Apprendre l’espagnol en jouant, en chantant, en bougeant et en explorant
+    align: center
+
+  - type: text
+    color: blue
+    align: center
+    body: |
+      Un camp d’immersion en espagnol avec une approche culturelle, communicative, originale et amusante.
+
+      Cours d’espagnol le matin et discipline artistique ou sportive l’après-midi.
+
+      ### Thématiques pour l’été 2026
+      **Semaine 1 : soccer** · **Semaine 2 : cuisine**
+
+  - type: facts
+    color: orange
+    items:
+      - "> De 5 à 11 ans\n> Groupes de taille humaine"
+      - "> Pas besoin de connaître l’espagnol!"
+      - "> De 8 h 30 à 16 h\n> 295 $ / semaine"
+
+  - type: gallery
+    heading: Semaine 1 – 22-26 juin · Soccer
+    images:
+      - { src: /images/2026/04/soccer1-camp-de-jour-legados-1.webp, alt: Enfants qui jouent au soccer }
+      - { src: /images/2026/04/soccer2-camp-de-jour-legados-1.webp, alt: Enfants qui jouent au soccer }
+
+  - type: text
+    columns: 2
+    body: |
+      Le matin, les cours de langue s’appuient sur la lecture, les chansons, l’exploration musicale, le dessin et les arts plastiques. Une pause collation est prévue en milieu de matinée.
+
+      L’après-midi est consacré à l’initiation au soccer, avec des jeux en plein air, des activités de groupe, des matchs amicaux ainsi que des exercices adaptés au niveau des participants.
+
+  - type: gallery
+    color: yellow
+    heading: Semaine 2 – 29 juin – 3 juillet · Cuisine
+    images:
+      - { src: /images/2026/04/cuisine-1-camp-de-jour-legados.webp, alt: Enfants qui cuisinent }
+      - { src: /images/2026/04/cuisine-2-camp-de-jour-legados.webp, alt: Enfants qui cuisinent }
+
+  - type: text
+    color: yellow
+    columns: 2
+    body: |
+      Le matin, les enfants découvrent la langue en lisant, en chantant et en explorant la musique, tout en s’exprimant par le dessin et les arts plastiques. Une pause collation est prévue en milieu de matinée.
+
+      Les après-midi sont consacrés à l’exploration culinaire en musique. Du Mexique à l’Argentine, les participants découvrent et préparent des recettes simples.
+
+  - type: text
+    align: center
+    heading: Horaire
+    body: |
+      Du lundi au vendredi de 8 h 30 à 16 h
+
+      **Semaine 1 :** 22-26 juin · **Semaine 2 :** 29 juin – 3 juillet
+
+      Le lieu de ralliement est l’Institut Legados dans le Mile-End
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+      [info@legados.ca](mailto:info@legados.ca) · [514 867 9363](tel:+15148679363)
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/camp-de-jour/camp-de-jour-2026/" }

@@ -1,0 +1,96 @@
+{% import "sections.html" as sec %}
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}{% if page.key != 'home' %} | Legados{% endif %}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <link rel="alternate" hreflang="{{ lang }}" href="{{ s.site_url }}{{ url }}">
+  <link rel="alternate" hreflang="{{ other_lang }}" href="{{ s.site_url }}{{ other_url }}">
+  <meta property="og:title" content="{{ page.title }}">
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
+  <meta property="og:image" content="{{ s.site_url }}{{ page.share_image or s.share_image }}">
+  <link rel="icon" href="{{ s.favicon }}">
+  <link rel="preload" href="/fonts/mulish-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/ubuntu-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/css/style.css?v={{ v.css }}">
+</head>
+<body>
+<a class="skip" href="#main">{{ s.skip_link }}</a>
+
+<div class="topbar">
+  <div class="wrap topbar-inner">
+    <span class="tagline">{{ s.tagline }}</span>
+    <span class="topbar-links">
+      <a href="{{ link('page:contact') }}">{{ s.contact_label }}</a>
+      <a href="{{ other_url }}" hreflang="{{ other_lang }}" lang="{{ other_lang }}" class="lang-switch">{{ s.other_language }}</a>
+    </span>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a href="{{ link('page:home') }}" class="logo"><img src="{{ s.logo }}" alt="Legados" width="266" height="50"></a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="menu">{{ s.menu_label }}</button>
+    <nav id="menu" class="menu" aria-label="{{ s.menu_label }}">
+      <ul>
+      {% for item in s.menu %}
+        {% set active = current_key in menu_keys(item) %}
+        {% if item.children %}
+        <li class="has-sub{% if active %} active{% endif %}">
+          <button class="sub-toggle" aria-expanded="false">{{ item.label }}</button>
+          <ul class="sub">
+            {% for c in item.children %}<li><a href="{{ link(c.url or 'page:' ~ c.page) }}"{% if c.page == current_key %} aria-current="page"{% endif %}>{{ c.label }}</a></li>{% endfor %}
+          </ul>
+        </li>
+        {% else %}
+        <li{% if active %} class="active"{% endif %}><a href="{{ link(item.url or 'page:' ~ item.page) }}"{% if item.page == current_key %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+{% for section in page.sections or [] %}
+  {{ sec.render(section, s) }}
+{% endfor %}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <img src="{{ s.mascot }}" alt="" class="footer-mascot" width="90" height="90">
+      <p class="small">© {{ s.year }} Legados</p>
+    </div>
+    <div>
+      <h2 class="footer-title">{{ s.newsletter_title }}</h2>
+      {% if s.newsletter_action %}
+      <form class="newsletter" action="{{ s.newsletter_action }}" method="post" target="_blank">
+        <label>{{ s.newsletter_first_name }}<input type="text" name="FNAME" autocomplete="given-name"></label>
+        <label>{{ s.newsletter_email }}*<input type="email" name="EMAIL" required autocomplete="email"></label>
+        <div class="hp" aria-hidden="true"><input type="text" name="{{ s.newsletter_honeypot }}" tabindex="-1" value=""></div>
+        <button type="submit" class="btn btn-small">{{ s.newsletter_button }}</button>
+      </form>
+      {% else %}
+      <p class="small">{{ s.newsletter_soon }} <a href="mailto:{{ s.email }}">{{ s.email }}</a></p>
+      {% endif %}
+    </div>
+    <div>
+      <h2 class="footer-title">Legados</h2>
+      <p class="small"><a href="{{ s.map_link }}">{{ s.address_line1 }}</a><br>{{ s.address_line2 }}<br>{{ s.address_line3 }}<br>
+      <a href="tel:{{ s.phone_link }}">{{ s.phone }}</a><br>
+      <a href="mailto:{{ s.email }}">{{ s.email }}</a></p>
+    </div>
+    <div>
+      <p class="stars" aria-hidden="true">★★★★★</p>
+      <p class="small">{{ s.reviews_text }}<br><a href="{{ s.reviews_link }}">{{ s.reviews_link_label }}</a></p>
+      <p class="small"><a href="{{ link('page:don') }}">{{ s.donate_label }}</a></p>
+    </div>
+  </div>
+</footer>
+<script src="/js/site.js?v={{ v.js }}" defer></script>
+</body>
+</html>

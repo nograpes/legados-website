@@ -1,0 +1,98 @@
+key: cours-8mois-2ans
+slug: cours-d-espagnol-montreal/8mois-2ans
+title: Espagnol aux couches (8 mois – 2 ans)
+description: Cours d’espagnol langue maternelle pour bébés de 8 mois à 2 ans, avec un parent. Musique, comptines et histoires, le samedi à Montréal.
+sections:
+  - type: page_title
+    eyebrow: Cours d’espagnol langue maternelle
+    title: Espagnol aux couches (8 mois – 2 ans)
+    align: center
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/8mois-2ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Ce cours s’adresse aux bébés de familles hispanophones, accompagnés d’un parent.
+
+      À travers la musique, les comptines, les histoires et le jeu sensoriel, les tout-petits s’éveillent à l’espagnol dans un climat doux, joyeux et affectif.
+
+      Une première rencontre avec la langue, pleine d’émotions et de découvertes.
+
+      Le cours se donne en présence des parents avec leur bébé.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Bébés 8 mois – 2 ans\n> Issus d’une famille hispanophone"
+      - "> Cours de groupe\n> Max 12 participants"
+      - "> Samedi\n> 10 h 30 – 11 h 30\n> 275 $"
+
+  - type: gallery
+    images:
+      - { src: /images/2026/05/Panales-parent-enfant.webp, alt: Parents et bébés dans le cours Espagnol aux couches }
+    columns: 1
+
+  - type: text
+    heading: Les objectifs
+    columns: 2
+    body: |
+      Ce cours offre aux tout-petits un tout premier contact avec l’espagnol — tout en douceur, en rires et en émotions.
+
+      Il s’agit aussi de la première exploration vocale et du mouvement corps + mot et livre.
+
+      Notre but? Créer un lien affectif fort avec la langue à travers le jeu, la musique et les histoires.
+
+      Dans un environnement sécurisant et chaleureux, les enfants s’éveillent à la langue par les sons, les gestes, les chansons et les expressions du quotidien. On sème les premières graines d’une communication vivante, joyeuse et spontanée.
+
+      **Objectifs avec les bébés**
+
+      - Compréhension auditive : réponse motrice (avec des gestes) aux chansons et au rythme
+      - Acquisition de vocabulaire
+
+      **Objectifs avec la famille**
+
+      - Mettre en valeur la langue d’origine et les cultures
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Notre approche pédagogique
+    subheading: Apprendre une langue, c’est d’abord vivre avec elle
+    body: |
+      Dans ce cours, les enfants découvrent l’espagnol par le corps, le cœur et les sens. Les mots se mêlent aux gestes, les rires aux jeux, et les émotions aux chansons.
+
+      À travers des activités musicales et ludiques, nous créons un espace d’exploration joyeux et sécurisant :
+
+      - Des jeux qui permettent de toucher, bouger, ressentir… et apprendre sans s’en rendre compte.
+      - Des poèmes et des histoires qui éveillent la curiosité et cultivent le goût des mots.
+      - Des chansons qui font danser la langue et renforcent le lien affectif avec elle.
+
+      L’espagnol devient peu à peu une langue vivante, aimée, ressentie. Un apprentissage naturel, qui prépare les enfants à une lecture amoureuse du monde.
+
+  - type: people
+    heading: Professeure du cours
+    people:
+      - name: Sofia Urrutia
+        photo: /images/2026/03/Sofia-Urrutia-prof-espagnol-1024x866.jpeg
+        bio: |
+          « Je suis chilienne, éducatrice de profession et par vocation. Au cours de mon parcours personnel et professionnel, je me suis intéressée à l’éducation interculturelle et à l’enseignement et l’apprentissage de l’espagnol. Je suis maman d’un petit multilingue chilien-canadien. Je suis heureuse d’accompagner le groupe de PAÑALES parents-enfants dans la découverte émerveillée de l’espagnol. »
+
+  - type: cards
+    color: yellow
+    heading: Horaire
+    body: Les samedis de 10 h 30 à 11 h 30 – 13 semaines
+    cards:
+      - { title: Automne 2026, text: "12 septembre au 5 décembre\nCongé : 10 octobre" }
+      - { title: Hiver 2027, text: "9 janvier au 20 mars\nCongé : 6 mars" }
+      - { title: Printemps 2027, text: "3 avril au 5 juin" }
+
+  - type: text
+    align: center
+    body: |
+      Les cours se donnent à notre école du Mile-End.
+      **5804, boulevard Saint-Laurent (au coin de Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Inscription, url: "https://legados.ca/shop/espagnol-langue-maternelle/8mois-2ans/" }

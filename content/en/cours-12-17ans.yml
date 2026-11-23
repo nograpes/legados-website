@@ -1,0 +1,95 @@
+key: cours-12-17ans
+slug: spanish-classes/12-17-years
+title: Passage (12-17 years)
+description: Passage, a heritage-language Spanish class for intermediate-level teens aged 12 to 17, in Montreal.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a heritage language
+    title: Passage (12-17 years)
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/12-17-ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      Passage is an in-person group class for teens aged 12 to 17 who already have an intermediate level of Spanish. It is a space to strengthen language skills, of course — but above all, to grow with the language.
+
+      Here, teens practise speaking and writing, learn new words and polish their grammar… while exploring essential themes such as citizenship, human rights and cultural diversity.
+
+      Through readings, discussions, art projects and immersion activities in their community, students connect their language, their culture and the world around them.
+
+      Passage is much more than a class: it is a personal, cultural and civic journey. A path to learn to express themselves, find their place… and discover who they are. A Spanish class that takes you far.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Teens 12-17, intermediate level\n> From a Spanish-speaking family"
+      - "> Group class\n> Max. 12 participants"
+      - "> $325"
+
+  - type: text
+    image: /images/2026/05/espanol-travesias-1.jpg
+    image_side: left
+    subheading: A journey through language, culture… and yourself.
+    body: |
+      Passage is for teens with an intermediate level of Spanish who want to deepen their command of the language while exploring the big questions of today’s world.
+
+      This year-long class is organized in thematic modules, each covering essential topics such as citizenship, human rights and cultural diversity. The goal? To develop not only solid language skills, but also critical thinking, social awareness and cultural pride.
+
+  - type: text
+    color: yellow
+    heading: Goals
+    subheading: Much more than a language class
+    body: |
+      In this class, teens develop their speaking and writing skills, enrich their vocabulary and consolidate grammar — always in authentic, engaging and meaningful contexts.
+
+      Through discussion, reading, art projects and debate, students:
+
+      - build bridges between their Hispanic roots and the world around them
+      - speak and write Spanish with more ease and precision
+      - use the language in concrete situations connected to their lives
+      - explore their cultural surroundings with a sensitive, critical eye
+
+      Passage is a space to deepen the language, understand the world… and discover yourself along the way.
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: A teaching approach rooted in real life
+    body: |
+      ### Local immersion projects
+      Students take part in social, cultural and artistic activities in their community. This hands-on connection gives meaning to their learning and brings the language to life.
+
+      ### Legados international program
+      At the end of the program, an exchange in a Latin American country lets them dive into the heart of their linguistic and cultural heritage.
+
+      ### Growing up in Spanish
+      Passage offers much more than a Spanish class: it is a journey of identity and citizenship, a space to grow in Spanish… and in the world.
+
+  - type: people
+    heading: Teacher
+    people:
+      - name: Camila Saland
+        photo: /images/2026/04/Camila-Saland-prof-espagnol-edited-2.jpeg
+        bio: |
+          “I earned my bachelor’s degree in linguistics at McGill University. I grew up in New York and I’m trilingual: I speak Spanish, English and French. I’m interested in the sociolinguistic reality of Spanish speakers in a heritage-language context, and in creating learning tools. In my free time, I enjoy cycling, film photography and reading.”
+
+  - type: cards
+    color: yellow
+    heading: Schedule
+    body: To be confirmed
+    cards:
+      - { title: Fall, text: "September 11 to December 4\nNo class: October 11" }
+      - { title: Winter, text: "January 8 to March 19\nNo class: March 5" }
+      - { title: Spring, text: "April 2 to June 4\nNo class: April 4" }
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/12-17-ans/" }

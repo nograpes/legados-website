@@ -1,0 +1,44 @@
+key: culture
+slug: culture
+title: Culture
+description: Workshops, cultural celebrations, readings, poetry, dance and cooking — experience Latin American culture with Legados in Montreal.
+sections:
+  - type: page_title
+    title: Experience Latin American culture!
+    align: center
+
+  - type: text
+    color: yellow
+    image: /images/2025/10/lenguaje-herencia-legados7-web.jpg
+    image_side: right
+    heading: Pyjama party for ages 5 to 12
+    body: Saturday, November 14, 5 to 9 p.m.
+    buttons:
+      - { label: Learn more, url: "https://legados.ca/soiree-pyjama" }
+
+  - type: text
+    image: /images/2026/04/femme-dansante2000x1333-1024x682.webp
+    image_side: left
+    heading: "Legados is also Latin American culture: song, literature, cooking, drawing, dance"
+    body: |
+      Legados invites you to a joyful immersion in Latin American culture.
+
+      Culture you live by singing, that is written in Spanish and in poetry, that simmers slowly on the stove and is savoured around a table.
+
+      Culture expressed through dance, drawing, words, colours and gestures.
+
+      Through our creative workshops, cultural celebrations, readings, art projects and shared recipes, young and old discover a vibrant, warm and inclusive culture.
+
+      At Legados, learning a language also means connecting with a living world.
+
+  - type: cards
+    color: pink
+    cards:
+      - title: Latin American Heritage Month
+        text: Come celebrate the culture of Latin American communities.
+        image: /images/2026/04/mois-heritage-lationo.webp
+        button: { label: Learn more, url: "https://legados.ca/culture/mois-de-l-heritage-latino-americain" }
+      - title: Poetry workshop in Spanish
+        text: Explore poetry as a way of expression and reflection.
+        image: /images/2026/04/escritura_creativa_foto_adultos_mayores.webp
+        button: { label: Learn more, url: "https://legados.ca/culture/atelier-de-poesie" }

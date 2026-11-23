@@ -1,0 +1,30 @@
+key: don
+slug: faire-un-don
+title: Faire un don
+description: Soutenez Legados, organisme de bienfaisance, et le développement d’une plateforme numérique d’enseignement de l’espagnol. Un reçu d’impôt vous sera émis.
+sections:
+  - type: page_title
+    title: Aidez Legados à remplir sa mission
+    align: center
+    buttons:
+      - { label: Faire un don, url: "https://www.zeffy.com/fr-CA/donation-form/donnez-pour-faire-rayonner-la-culture-latino-americaine" }
+
+  - type: text
+    color: yellow
+    image: /images/2025/12/Legados_cours-espagnol-etudiants-5-1.png
+    image_side: left
+    eyebrow: Projet de plateforme numérique dédiée à l’enseignement
+    heading: Une plateforme d’enseignement
+    subheading: Nous avons l’ambition de faire rayonner l’espagnol et la culture hispanique à Montréal et au-delà.
+    body: |
+      Vos dons viendront soutenir le développement d’une plateforme numérique d’enseignement.
+
+      Cette plateforme comprendra des outils de formation, des livres et des cahiers thématiques.
+
+      L’objectif est d’améliorer l’accès aux contenus et d’uniformiser les pratiques pédagogiques, dans le but de mieux desservir les clientèles visées, notamment au-delà de Montréal.
+
+      **Un reçu d’impôt vous sera émis.**
+
+      Legados est un organisme de charité, dont le numéro d’enregistrement est 793483884.
+    buttons:
+      - { label: Oui, je veux faire un don ! 😊, url: "https://www.zeffy.com/fr-CA/donation-form/donnez-pour-faire-rayonner-la-culture-latino-americaine" }

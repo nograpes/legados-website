@@ -1,0 +1,98 @@
+key: cours-8mois-2ans
+slug: spanish-classes/8-months-2-years
+title: Spanish in diapers (8 months – 2 years)
+description: Heritage-language Spanish class for babies aged 8 months to 2 years, with a parent. Music, nursery rhymes and stories, Saturdays in Montreal.
+sections:
+  - type: page_title
+    eyebrow: Spanish as a heritage language
+    title: Spanish in diapers (8 months – 2 years)
+    align: center
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/8mois-2ans/" }
+
+  - type: text
+    color: blue
+    columns: 2
+    body: |
+      This class is for babies from Spanish-speaking families, together with a parent.
+
+      Through music, nursery rhymes, stories and sensory play, little ones awaken to Spanish in a gentle, joyful and loving atmosphere.
+
+      A first encounter with the language, full of emotion and discovery.
+
+      Parents attend the class with their baby.
+
+  - type: facts
+    color: orange
+    items:
+      - "> Babies 8 months – 2 years\n> From a Spanish-speaking family"
+      - "> Group class\n> Max. 12 participants"
+      - "> Saturday\n> 10:30 – 11:30 a.m.\n> $275"
+
+  - type: gallery
+    columns: 1
+    images:
+      - { src: /images/2026/05/Panales-parent-enfant.webp, alt: Parents and babies in the Spanish in diapers class }
+
+  - type: text
+    heading: Goals
+    columns: 2
+    body: |
+      This class gives the very youngest children their first contact with Spanish — gently, with laughter and emotion.
+
+      It is also a first exploration of voice and movement: body + word, and books.
+
+      Our goal? To build a strong emotional bond with the language through play, music and stories.
+
+      In a safe and warm setting, children awaken to the language through sounds, gestures, songs and everyday expressions. We sow the first seeds of lively, joyful and spontaneous communication.
+
+      **Goals for the babies**
+
+      - Listening comprehension: responding with movement (gestures) to songs and rhythm
+      - Building vocabulary
+
+      **Goals for the family**
+
+      - Valuing the language of origin and its cultures
+
+  - type: text
+    color: grey
+    image: /images/2026/03/Multiblocs.svg
+    image_shape: plain
+    heading: Our teaching approach
+    subheading: Learning a language starts with living with it
+    body: |
+      In this class, children discover Spanish through their bodies, their hearts and their senses. Words blend with gestures, laughter with games, and feelings with songs.
+
+      Through musical and playful activities, we create a joyful and safe space to explore:
+
+      - Games to touch, move and feel… and learn without even noticing.
+      - Poems and stories that spark curiosity and a love of words.
+      - Songs that make the language dance and strengthen the bond with it.
+
+      Little by little, Spanish becomes a living language — loved and felt. A natural way of learning that prepares children to read the world with love.
+
+  - type: people
+    heading: Teacher
+    people:
+      - name: Sofia Urrutia
+        photo: /images/2026/03/Sofia-Urrutia-prof-espagnol-1024x866.jpeg
+        bio: |
+          “I’m Chilean, an educator by profession and by calling. Over my personal and professional journey, I became interested in intercultural education and in teaching and learning Spanish. I’m the mom of a little Chilean-Canadian multilingual boy. I’m happy to guide the PAÑALES parent-child group as they discover Spanish with wonder.”
+
+  - type: cards
+    color: yellow
+    heading: Schedule
+    body: Saturdays, 10:30 to 11:30 a.m. – 13 weeks
+    cards:
+      - { title: Fall 2026, text: "September 12 to December 5\nNo class: October 10" }
+      - { title: Winter 2027, text: "January 9 to March 20\nNo class: March 6" }
+      - { title: Spring 2027, text: "April 3 to June 5" }
+
+  - type: text
+    align: center
+    body: |
+      Classes take place at our school in the Mile-End.
+      **5804 Saint-Laurent Boulevard (corner of Bernard), Montréal H2T 1T3**
+    buttons:
+      - { label: Register, url: "https://legados.ca/shop/espagnol-langue-maternelle/8mois-2ans/" }
