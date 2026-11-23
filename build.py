@@ -39,6 +39,20 @@ def page_url(page, lang):
     return LANG_PREFIX[lang] + (slug + "/" if slug else "")
 
 
+def relative_links(html, dest):
+    """Make site-internal links (/css/…, /images/…, /en/…) relative to the page, so the
+    site works both at a domain's root and in a subfolder (e.g. aman.koumbit.org/legados/)."""
+    depth = len(dest.relative_to(OUT).parts) - 1
+    prefix = "../" * depth or "./"
+
+    def fix(m):
+        path = m.group(2)[1:]  # drop the leading /
+        return f"{m.group(1)}{prefix}{path}"
+
+    # href="/x", src="/x", url('/x') — but not protocol-relative //host
+    return re.sub(r"""((?:href|src)=["']|url\(['"]?)(/(?!/)[^"')]*)""", fix, html)
+
+
 def main():
     settings = load(ROOT / "content" / "settings.yml")
 
@@ -111,7 +125,7 @@ def main():
             )
             dest = OUT / page_url(page, lang).lstrip("/") / "index.html"
             dest.parent.mkdir(parents=True, exist_ok=True)
-            dest.write_text(html, encoding="utf-8")
+            dest.write_text(relative_links(html, dest), encoding="utf-8")
         if lang != "fr":
             for key in sorted(set(pages["fr"]) - set(pages[lang])):
                 print(f"note: page '{key}' has no {lang} version yet (the language button goes to the {lang} home page)")

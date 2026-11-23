@@ -1,10 +1,10 @@
 /* Legados — colours and fonts taken from the previous WordPress site */
-@font-face { font-family: "Mulish"; src: url("/fonts/mulish-latin-wght-normal.woff2") format("woff2"); font-weight: 200 1000; font-style: normal; font-display: swap; }
-@font-face { font-family: "Mulish"; src: url("/fonts/mulish-latin-wght-italic.woff2") format("woff2"); font-weight: 200 1000; font-style: italic; font-display: swap; }
-@font-face { font-family: "Ubuntu"; src: url("/fonts/ubuntu-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-display: swap; }
-@font-face { font-family: "Ubuntu"; src: url("/fonts/ubuntu-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
-@font-face { font-family: "Ubuntu"; src: url("/fonts/ubuntu-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-display: swap; }
-@font-face { font-family: "Ubuntu"; src: url("/fonts/ubuntu-latin-700-normal.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Mulish"; src: url("../fonts/mulish-latin-wght-normal.woff2") format("woff2"); font-weight: 200 1000; font-style: normal; font-display: swap; }
+@font-face { font-family: "Mulish"; src: url("../fonts/mulish-latin-wght-italic.woff2") format("woff2"); font-weight: 200 1000; font-style: italic; font-display: swap; }
+@font-face { font-family: "Ubuntu"; src: url("../fonts/ubuntu-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Ubuntu"; src: url("../fonts/ubuntu-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Ubuntu"; src: url("../fonts/ubuntu-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "Ubuntu"; src: url("../fonts/ubuntu-latin-700-normal.woff2") format("woff2"); font-weight: 700; font-display: swap; }
 
 :root {
   --ink: #0f1729;

@@ -32,8 +32,14 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
 - `.pages.yml` — Pages CMS editing screens (both page collections). settings.yml is
   deliberately not in Pages CMS (it could drop fields not in its schema).
 - `.github/workflows/deploy.yml` — on push to `main` or manually: imports images,
-  builds, FTP-uploads `_site/` to Koumbit. Upload is skipped until the secrets
-  FTP_SERVER/FTP_USERNAME/FTP_PASSWORD exist (vars FTP_SERVER_DIR, FTP_PROTOCOL optional).
+  builds, FTP-uploads `_site/` to Koumbit. Secrets FTP_SERVER/FTP_USERNAME/FTP_PASSWORD
+  and FTP_SERVER_DIR = `legados` (set 2026-11-23; the workflow adds the trailing /).
+  Test address: http://aman.koumbit.org/legados/ (per Aman, unverified).
+- All internal links are made **relative** by build.py (`relative_links`), so the site
+  works in a subfolder now and at legados.ca's root later. Don't hard-code `/…` paths
+  in CSS (use `../fonts/…`).
+- Claude can reach the GitHub API (runs, job logs, workflow_dispatch) with curl
+  through the session proxy; `gh` and the GitHub MCP didn't work on 2026-11-23.
 
 ## Design
 - Own CSS (static/css/style.css), written from scratch — **don't copy code or layouts

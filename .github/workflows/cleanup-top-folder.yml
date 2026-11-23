@@ -1,0 +1,23 @@
+# ONE-TIME CLEANUP (2026-11-23): the first upload went to the FTP account's top folder
+# before FTP_SERVER_DIR was set. This deletes exactly the files that upload recorded in
+# ./.ftp-deploy-sync-state.json (nothing else), by syncing an empty folder there.
+# Run manually from the Actions tab; delete this file afterwards.
+name: One-time cleanup of the top FTP folder
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - run: mkdir -p empty
+      - name: Remove the old copy from the top folder
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ${{ vars.FTP_PROTOCOL || 'ftps' }}
+          local-dir: ./empty/
+          server-dir: ./

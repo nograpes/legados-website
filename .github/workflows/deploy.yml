@@ -46,9 +46,21 @@ jobs:
       - name: Build site
         run: python build.py
 
+      # Folder on Koumbit: secret or variable FTP_SERVER_DIR (e.g. "legados"); the FTP
+      # action needs it to end with "/". Empty = the FTP account's top folder.
+      - name: Work out the FTP folder
+        env:
+          DIR: ${{ secrets.FTP_SERVER_DIR || vars.FTP_SERVER_DIR }}
+        run: |
+          DIR="${DIR#/}"
+          if [ -z "$DIR" ] || [ "$DIR" = "." ] || [ "$DIR" = "./" ]; then DIR="./"; else DIR="${DIR%/}/"; fi
+          echo "FTP_DIR=$DIR" >> "$GITHUB_ENV"
+          echo "Uploading to: $DIR"
+
       # FTP details are stored in the repository's Settings → Secrets and variables → Actions:
       #   secrets:   FTP_SERVER, FTP_USERNAME, FTP_PASSWORD
-      #   variables: FTP_SERVER_DIR (folder on Koumbit, ending in /), FTP_PROTOCOL (ftps or ftp)
+      #   FTP_SERVER_DIR (secret or variable): folder on Koumbit, e.g. legados
+      #   variable FTP_PROTOCOL (ftps or ftp, default ftps)
       # Until the secrets exist, the site is built but not uploaded.
       - name: Upload to Koumbit
         if: env.HAS_FTP == 'true'
@@ -59,4 +71,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ${{ vars.FTP_PROTOCOL || 'ftps' }}
           local-dir: ./_site/
-          server-dir: ${{ vars.FTP_SERVER_DIR || './' }}
+          server-dir: ${{ env.FTP_DIR }}
