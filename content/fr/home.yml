@@ -6,11 +6,9 @@ sections:
 - type: hero_home
   color: yellow
   lines:
-  - text: Cours de langue espagnole
-  - text: '&'
-    small: true
-  - text: culture latino-américaine
-  intro: Une école de langue et un institut culturel dans le Mile-End, à Montréal. Pour enfants et adultes.
+  - text: Un lieu de rencontre en espagnol,
+  - text: au cœur du Mile-End
+  intro: Cours de langue pour enfants et adultes, et activités culturelles en famille, ouvertes à toutes et à tous.
   photo: /images/2026/04/Legados_cours-espagnol-etudiants.webp
   alt: Enfants dans un cours d’espagnol à Legados
   image: /images/2025/09/cropped-mstile-310x310-1-300x300.png
@@ -19,6 +17,9 @@ sections:
     url: page:cours#elm
   - label: Espagnol langue étrangère
     url: page:cours#ele
+    style: outline
+  - label: Activités culturelles
+    url: page:culture
     style: outline
 - type: video
   youtube: KaklklojCu4

@@ -6,11 +6,9 @@ sections:
 - type: hero_home
   color: yellow
   lines:
-  - text: Spanish language classes
-  - text: '&'
-    small: true
-  - text: Latin American culture
-  intro: A language school and cultural institute in Montreal’s Mile-End. For children and adults.
+  - text: A place to meet in Spanish,
+  - text: in the heart of the Mile End
+  intro: Language classes for children and adults, and family-friendly cultural activities open to everyone.
   photo: /images/2026/04/Legados_cours-espagnol-etudiants.webp
   alt: Children in a Spanish class at Legados
   image: /images/2025/09/cropped-mstile-310x310-1-300x300.png
@@ -19,6 +17,9 @@ sections:
     url: page:cours#elm
   - label: Spanish as a foreign language
     url: page:cours#ele
+    style: outline
+  - label: Cultural activities
+    url: page:culture
     style: outline
 - type: video
   youtube: KaklklojCu4

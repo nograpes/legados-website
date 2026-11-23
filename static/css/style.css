@@ -103,7 +103,7 @@ h3 { font-size: 1.3rem; font-weight: 650; margin: 1.4em 0 .4em; letter-spacing: 
 /* Home hero: headline left, photo with the mascot as a round sticker right */
 .sec-hero_home { padding: 72px 0 96px; }
 .hero { display: grid; grid-template-columns: 1.05fr 1fr; gap: 64px; align-items: center; }
-.hero h1 { font-size: clamp(2.6rem, 6vw, 4.8rem); }
+.hero h1 { font-size: clamp(2.4rem, 5.2vw, 4.2rem); }
 .hero-line { display: block; }
 .hero-amp { font-weight: 400; color: var(--red); }
 .hero-intro { font-size: 1.25rem; max-width: 30em; }
