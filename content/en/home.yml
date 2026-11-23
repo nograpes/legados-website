@@ -27,7 +27,10 @@ sections:
   body: 'Born of the immigrant experience and a deep bond with language, Legados invites you to discover Spanish through its stories, its voices and its imagination.
 
 
-    Classes, workshops and cultural activities create a meeting place where children, teens and adults learn the language while deepening their knowledge of a culture and discovering a community.'
+    Classes, workshops and cultural activities create a meeting place where children, teens and adults learn the language while deepening their knowledge of a culture and discovering a community.
+
+
+    For children from Spanish-speaking families, strong Spanish also helps them succeed at school in French and feel at home in Quebec.'
   color: white
 - type: cards
   color: red
@@ -35,7 +38,7 @@ sections:
   cards:
   - title: Spanish as a heritage language
     image: /images/2025/10/enfants-jouant-espagnol-scaled.jpg
-    text: For Spanish-speaking families who want their children to enrich their Spanish, from 8 months to 17 years.
+    text: 'For children aged 8 months to 17 years who speak Spanish at home: enriching their Spanish helps their French too.'
     button:
       label: See the classes
       url: page:cours#elm

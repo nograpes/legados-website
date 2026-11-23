@@ -27,7 +27,10 @@ sections:
   body: 'Né de l’expérience de l’immigration et d’un lien profond avec la langue, Legados invite à découvrir l’espagnol à travers ses histoires, ses voix et ses imaginaires.
 
 
-    Cours, ateliers et activités culturelles créent un espace de rencontre où enfants, jeunes et adultes apprennent la langue tout en approfondissant une culture et en découvrant une communauté.'
+    Cours, ateliers et activités culturelles créent un espace de rencontre où enfants, jeunes et adultes apprennent la langue tout en approfondissant une culture et en découvrant une communauté.
+
+
+    Pour les enfants de familles hispanophones, un espagnol solide est aussi un appui pour réussir à l’école en français et se sentir chez soi au Québec.'
   color: white
 - type: cards
   color: red
@@ -35,7 +38,7 @@ sections:
   cards:
   - title: Espagnol langue maternelle
     image: /images/2025/10/enfants-jouant-espagnol-scaled.jpg
-    text: Pour les familles hispanophones qui veulent que leurs enfants enrichissent leur espagnol, de 8 mois à 17 ans.
+    text: 'Pour les enfants de 8 mois à 17 ans qui parlent espagnol à la maison : enrichir leur espagnol les aide aussi en français.'
     button:
       label: Voir les cours
       url: page:cours#elm
