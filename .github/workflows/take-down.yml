@@ -1,0 +1,29 @@
+# Removes the published site from Koumbit: deletes exactly the files the deploy workflow
+# uploaded to FTP_SERVER_DIR (as recorded in its .ftp-deploy-sync-state.json), by
+# syncing an empty folder there. The repository keeps all files. Run from the Actions tab.
+name: Take the site offline
+
+on:
+  workflow_dispatch:
+
+jobs:
+  takedown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Work out the FTP folder
+        env:
+          DIR: ${{ secrets.FTP_SERVER_DIR || vars.FTP_SERVER_DIR }}
+        run: |
+          DIR="${DIR#/}"
+          if [ -z "$DIR" ] || [ "$DIR" = "." ] || [ "$DIR" = "./" ]; then DIR="./"; else DIR="${DIR%/}/"; fi
+          echo "FTP_DIR=$DIR" >> "$GITHUB_ENV"
+          mkdir -p empty
+      - name: Delete the published files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ${{ vars.FTP_PROTOCOL || 'ftps' }}
+          local-dir: ./empty/
+          server-dir: ${{ env.FTP_DIR }}

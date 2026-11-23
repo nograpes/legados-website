@@ -1,11 +1,12 @@
 # Builds the website and uploads it to Koumbit by FTP.
-# Runs whenever something changes on main (e.g. a save in Pages CMS), and on demand
-# from the Actions tab.
+# PAUSED 2026-11-23: the site was taken down at Aman's request, so this no longer runs on
+# every push. To publish again, run it from the Actions tab (or restore the push trigger:
+#   push:
+#     branches: [main]
+# ).
 name: Build and publish
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 concurrency:

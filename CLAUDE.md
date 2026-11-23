@@ -31,7 +31,11 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
   only works while WordPress is online. Always `git pull` after a push.
 - `.pages.yml` — Pages CMS editing screens (both page collections). settings.yml is
   deliberately not in Pages CMS (it could drop fields not in its schema).
-- `.github/workflows/deploy.yml` — on push to `main` or manually: imports images,
+- **OFFLINE since 2026-11-23 (Aman: "take down the website but save the files").**
+  `take-down.yml` deleted the published files from Koumbit; `deploy.yml` now runs only
+  manually (push trigger removed). To bring the site back: run "Build and publish" from
+  the Actions tab, or restore the push trigger.
+- `.github/workflows/deploy.yml` — imports images,
   builds, FTP-uploads `_site/` to Koumbit. Secrets FTP_SERVER/FTP_USERNAME/FTP_PASSWORD
   and FTP_SERVER_DIR = `legados` (set 2026-11-23; the workflow adds the trailing /).
   Test address: http://aman.koumbit.org/legados/ (per Aman, unverified).
