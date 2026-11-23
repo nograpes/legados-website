@@ -15,7 +15,7 @@ sections:
     body: |
       Legados est un organisme de bienfaisance enregistré, fondé en 2017 dans le Mile-End, à Montréal. Son nom signifie « héritages » en espagnol.
 
-      Il est né de l’expérience de sa fondatrice, mère immigrante latino-américaine, et du désir de garder l’espagnol vivant d’une génération à l’autre — notamment pour les enfants qui grandissent avec l’espagnol à la maison, dans un environnement francophone et anglophone.
+      Il est né de l’expérience de sa fondatrice, mère immigrante latino-américaine, et du désir de garder l’espagnol vivant d’une génération à l’autre — notamment pour les enfants qui grandissent avec l’espagnol à la maison et le français à l’école.
 
       Ancré dans la communauté, Legados accompagne directement les familles hispanophones de Montréal. Son programme d’espagnol langue d’héritage, qui allie la langue à la littérature, aux arts et à la culture latino-américaine, a été développé en réponse aux besoins exprimés par les familles elles-mêmes.
 
@@ -32,16 +32,20 @@ sections:
     body: |
       Legados a pour mission de favoriser la transmission et le développement de la langue espagnole et des cultures latino-américaines à Montréal.
 
-      Par ses cours, ses ateliers et ses activités culturelles et artistiques, Legados crée des espaces d’apprentissage, de création et de rencontre où la langue devient un lien entre les générations. Une attention particulière est portée aux familles issues de l’immigration, pour qui la langue d’origine est un patrimoine vivant. Legados contribue ainsi à la vitalité de la diversité culturelle montréalaise et au sentiment d’appartenance des communautés latino-américaines.
+      Par ses cours, ses ateliers et ses activités culturelles et artistiques, Legados crée des espaces d’apprentissage, de création, de rencontre et d’engagement citoyen, ouverts à toutes et à tous. Une attention particulière est portée aux familles issues de l’immigration, pour qui la langue d’origine est un patrimoine vivant et un appui pour bien s’intégrer.
+
+      Par sa mission éducative et culturelle, Legados contribue à la vitalité de la diversité culturelle montréalaise et au renforcement du sentiment d’appartenance et de participation des communautés hispanophones et latino-américaines à la société québécoise.
 
   - type: text
     image: /images/2025/12/Legados_cours-espagnol-etudiants-7-1-1024x683.png
     image_side: left
-    heading: Pourquoi la langue d’héritage est importante
+    heading: Une langue maternelle solide aide à apprendre le français
     body: |
-      Les enfants immigrants ou nouvellement arrivés apprennent souvent le français ou l’anglais alors que leur langue maternelle présente des lacunes. Cela peut freiner leur communication, leur participation à l’école, leur confiance et leurs liens avec leur famille, surtout lorsque leur parcours scolaire a été interrompu.
+      Les enfants immigrants ou nouvellement arrivés apprennent le français à l’école alors que leur langue maternelle présente souvent des lacunes. Cela peut freiner leur communication, leur participation en classe et leur confiance, surtout lorsque leur parcours scolaire a été interrompu.
 
-      Renforcer la langue d’héritage consolide les bases — vocabulaire, compréhension, communication — qui facilitent l’apprentissage d’une nouvelle langue. L’enfant y gagne aussi confiance et identité : une base solide pour participer pleinement à sa nouvelle communauté, tout en restant lié à sa famille et à sa culture.
+      La recherche montre que ce qu’un enfant maîtrise dans sa langue maternelle — vocabulaire, compréhension, lecture — se transfère à l’apprentissage du français. C’est d’ailleurs le principe du Programme d’enseignement des langues d’origine (PELO) du ministère de l’Éducation du Québec.
+
+      L’enfant y gagne aussi confiance et identité : une base solide pour participer pleinement à la vie québécoise, en français, tout en gardant le lien avec sa famille.
 
   - type: cards
     color: orange
@@ -49,11 +53,11 @@ sections:
     body: Legados répond à la perte de la langue d’héritage chez les enfants de familles immigrantes et multilingues par un enseignement de l’espagnol ancré dans la culture, l’identité et le vécu.
     cards:
       - title: Pour les enfants
-        text: Des cours adaptés à chaque âge, du matériel culturellement pertinent, des ateliers artistiques et des expériences d’immersion, pour que les enfants comprennent, parlent, lisent et écrivent l’espagnol avec confiance, tout en apprenant le français ou l’anglais.
+        text: Des cours adaptés à chaque âge, du matériel culturellement pertinent, des ateliers artistiques et des expériences d’immersion, pour que les enfants comprennent, parlent, lisent et écrivent l’espagnol avec confiance, en complément du français appris à l’école.
       - title: Au-delà de Legados
         text: Nous développons une pédagogie propre à l’espagnol langue d’héritage, et des outils que des organismes partenaires, des écoles et d’autres milieux communautaires pourront utiliser à leur tour.
-      - title: Pour les familles et la communauté
-        text: Une langue d’héritage solide nourrit la communication entre les générations et l’identité culturelle. Legados a aussi collaboré avec des professionnel·les qui accompagnent des enfants nouvellement arrivés ayant un retard de langage.
+      - title: Pour les familles et la société québécoise
+        text: Une langue d’héritage solide nourrit la communication entre les générations. Nos cours et activités, ouverts à tous, sont aussi un lieu de rencontre entre Québécois de toutes origines. Legados a aussi collaboré avec des professionnel·les qui accompagnent des enfants nouvellement arrivés ayant un retard de langage.
 
   - type: text
     color: grey
@@ -75,4 +79,4 @@ sections:
     color: red
     align: center
     body: |
-      ### Enfants, jeunes et adultes, familles hispanophones ou curieux de l’espagnol : choisir Legados, c’est rejoindre un lieu où l’espagnol est vivant et où les héritages dialoguent.
+      ### Legados aide les enfants à grandir au Québec à l’aise en français et fiers de leurs racines latino-américaines — et invite tous les Montréalais à découvrir l’espagnol.

@@ -15,7 +15,7 @@ sections:
     body: |
       Legados is a registered charity founded in 2017 in Montréal’s Mile End. Its name means “heritage” in Spanish.
 
-      It grew out of its founder’s experience as a Latin American immigrant mother, and the wish to keep Spanish alive across generations — especially for children growing up with Spanish at home in a mostly French- and English-speaking environment.
+      It grew out of its founder’s experience as a Latin American immigrant mother, and the wish to keep Spanish alive across generations — especially for children growing up with Spanish at home and French at school.
 
       Rooted in the community, Legados works directly with Spanish-speaking families in Montréal. Its Spanish Heritage Language program combines language learning with Latin American literature, arts and culture, and was developed in response to needs identified by families themselves.
 
@@ -32,16 +32,20 @@ sections:
     body: |
       Legados’s mission is to promote the transmission and development of the Spanish language and Latin American cultures in Montreal.
 
-      Through classes, workshops, and cultural and artistic activities, Legados creates spaces for learning, creativity and community where language becomes a bond between generations. We pay particular attention to families with immigrant backgrounds, for whom their native language is a living heritage. In this way, Legados contributes to Montreal’s cultural diversity and to the sense of belonging of Latin American communities.
+      Through classes, workshops, and cultural and artistic activities, Legados creates spaces for learning, creativity, community and civic engagement, open to everyone. We pay particular attention to families with immigrant backgrounds, for whom their native language is a living heritage and a foundation for successful integration.
+
+      Through its educational and cultural mission, Legados contributes to the vitality of Montreal’s cultural diversity and to strengthening the sense of belonging and participation of Spanish-speaking and Latin American communities in Quebec society.
 
   - type: text
     image: /images/2025/12/Legados_cours-espagnol-etudiants-7-1-1024x683.png
     image_side: left
-    heading: Why the heritage language matters
+    heading: A strong first language helps children learn French
     body: |
-      Newly arrived and immigrant children often learn French or English while their first language has gaps. This can hold back their communication, school participation, confidence and connection with their families — especially when their schooling has been disrupted.
+      Newly arrived and immigrant children learn French at school while their first language often has gaps. This can hold back their communication, participation in class and confidence — especially when their schooling has been disrupted.
 
-      Strengthening the heritage language builds the foundations — vocabulary, comprehension, communication — that make learning a new language easier. Children also gain confidence and a strong sense of identity: a secure base from which to take part fully in their new community while staying connected to their family and culture.
+      Research shows that what children master in their first language — vocabulary, comprehension, reading — carries over to learning French. It is the same principle behind Quebec’s Ministry of Education heritage-language program (PELO).
+
+      Children also gain confidence and a strong sense of identity: a secure base from which to take part fully in Quebec life, in French, while staying connected to their family.
 
   - type: cards
     color: orange
@@ -49,11 +53,11 @@ sections:
     body: Legados addresses the loss of heritage-language skills among children from immigrant and multilingual families through Spanish-language education rooted in culture, identity and lived experience.
     cards:
       - title: For children
-        text: Age-appropriate classes, culturally relevant materials, arts workshops and immersion experiences, so children understand, speak, read and write Spanish with confidence while they learn French or English.
+        text: Age-appropriate classes, culturally relevant materials, arts workshops and immersion experiences, so children understand, speak, read and write Spanish with confidence, alongside the French they learn at school.
       - title: Beyond Legados
         text: We are developing a teaching approach designed specifically for Spanish as a heritage language, with materials that partner organizations, schools and other community settings can use too.
-      - title: For families and the community
-        text: Strong heritage-language skills support communication between generations and cultural identity. Legados has also worked with professionals supporting newly arrived children with language delays.
+      - title: For families and Quebec society
+        text: Strong heritage-language skills support communication between generations. Our classes and activities, open to everyone, are also a meeting place for Quebecers of all backgrounds. Legados has also worked with professionals supporting newly arrived children with language delays.
 
   - type: text
     color: grey
@@ -75,4 +79,4 @@ sections:
     color: red
     align: center
     body: |
-      ### Children, teens and adults, Spanish-speaking families and the simply curious: choosing Legados means joining a place where Spanish is alive and heritages meet.
+      ### Legados helps children grow up in Quebec at ease in French and proud of their Latin American roots — and invites all Montrealers to discover Spanish.

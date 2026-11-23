@@ -69,6 +69,14 @@ are requested in chat and made by Claude. Same setup as the CAMI Education site
   the email address.
 
 ## Content notes
+- **Framing (Aman, 2026-11-23):** Legados is in Quebec, where French is the common
+  language of integration (Loi sur l'intégration à la nation québécoise, 2025). Always
+  present Spanish as a **complement** to French that supports integration and belonging
+  in Quebec — never as preserving a separate community or competing with French. Key
+  points: a strong first language helps children learn French (research: Cummins,
+  Françoise Armand, UdeM); same principle as Quebec's own PELO program (ministère de
+  l'Éducation); activities open to all Quebecers (intercultural meeting). In FR, say
+  "le français appris à l'école"; avoid "environnement francophone et anglophone".
 - "Qui sommes-nous / Who we are" was rewritten 2026-11-23 from Aman's official texts
   (mission statement, organization description, heritage-language rationale, activities
   and beneficiaries, community roots) — **condensed on purpose** (Aman: "condense
