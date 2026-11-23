@@ -57,7 +57,9 @@
 
 {% elif t == 'facts' %}
   <div class="wrap facts">
-    {% for item in x['items'] or [] %}<div class="fact">{{ inline(item) }}</div>{% endfor %}
+    {% for item in x['items'] or [] %}
+    <ul class="fact">{% for line in item.split('\n') if line.strip() %}<li>{{ inline(line.strip().lstrip('>').strip()) }}</li>{% endfor %}</ul>
+    {% endfor %}
   </div>
 
 {% elif t == 'gallery' %}
